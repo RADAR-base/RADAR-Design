@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6A54D431-3770-413D-9F1C-B00BFE59D5DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 216,
+    "x": 8,
+    "y": 361
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "UI/List/Dropdown",
+  "nameIsFixed": false,
+  "overrides": {
+    "6AD1F501-3273-48C1-82EF-62A810EA5B92": "Questionnaire #34",
+    "A6903FED-81CE-4ABA-B0E7-0E78675D4DF4": {
+      "symbolID": "7F66D08B-9AF6-4560-A698-21C5D91E5C60"
+    },
+    "CE956593-3569-4CFD-ABF8-C1879A80531E": {
+      "symbolID": "06231A4E-8249-4028-87E0-5A634C2D0FF1"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2B6938B6-FF98-4A61-ADE8-BCFC54CBA098",
+  "verticalSpacing": 0
+}

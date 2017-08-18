@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "26E39215-89C5-4795-AA67-CE388A8D5211",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 544,
+    "width": 928,
+    "x": 496,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FEF218E1-1CBB-4BC2-A607-191E29F57838"
+    },
+    {
+      "class": "group",
+      "id": "1983E677-845C-4355-9C5B-DA5721043090"
+    },
+    {
+      "class": "group",
+      "id": "48547729-AFE2-4AE4-AE60-E8A131C701DA"
+    },
+    {
+      "class": "group",
+      "id": "F8366DFD-63AE-4021-91DF-4A2B3C571002"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D9D594C-F3A3-4C0F-94F1-3B0EAFF12DD8"
+    }
+  ],
+  "name": "Patients",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

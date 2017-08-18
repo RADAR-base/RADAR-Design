@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "C56C2ADA-781D-4166-BF38-A8FE8589A279",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 25,
+    "x": 0,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EA42266A-6D4C-42D5-B5DF-42DF08453253"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACB2AB0F-568B-4436-8C12-F96C8D180D92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B88C039-0993-4808-B7C7-47E4D8267838"
+    }
+  ],
+  "name": "IconTasls",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

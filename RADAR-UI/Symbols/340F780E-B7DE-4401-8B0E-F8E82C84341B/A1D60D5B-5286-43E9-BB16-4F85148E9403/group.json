@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "A1D60D5B-5286-43E9-BB16-4F85148E9403",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 136,
+    "x": 304,
+    "y": 124
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D6C7CDF-AAF7-471F-8C5D-16BB19CD07BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE7057BA-0BB5-4A47-94F8-FAC40C3BCD41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29C58C7D-966A-4A1C-93DB-43AF026F1D55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6FCE284-4474-4B91-B4B1-B44C93C6897F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25446DBF-386B-4D3F-AB19-372ECCB00C17"
+    },
+    {
+      "class": "text",
+      "id": "2D29E2FF-FBC3-4A91-B061-90D73AE9755A"
+    },
+    {
+      "class": "text",
+      "id": "D352C282-CF2D-4C88-80E4-429346461350"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A110E5A2-B79E-4AA7-9D70-C73F8072A39F"
+    },
+    {
+      "class": "text",
+      "id": "7905ED06-4617-46E5-ADD4-194E18BDB702"
+    },
+    {
+      "class": "text",
+      "id": "A7E7819C-CC3A-427F-B3A2-044C6553759A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B33174D8-1ADE-4D5F-B578-59DE28E95915"
+    },
+    {
+      "class": "text",
+      "id": "720C076F-0C96-43E6-A9B6-C1371B21C3C0"
+    },
+    {
+      "class": "text",
+      "id": "D4B823E9-6B22-4FF2-BC3B-0396FF4914B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "499B2B88-977D-4AEB-B874-9DD569310EC1"
+    },
+    {
+      "class": "text",
+      "id": "DEB41079-509F-4D0A-800D-024A4D165FA4"
+    },
+    {
+      "class": "text",
+      "id": "DB683116-04AB-486E-9263-A5FD785BC7CB"
+    }
+  ],
+  "name": "legend",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

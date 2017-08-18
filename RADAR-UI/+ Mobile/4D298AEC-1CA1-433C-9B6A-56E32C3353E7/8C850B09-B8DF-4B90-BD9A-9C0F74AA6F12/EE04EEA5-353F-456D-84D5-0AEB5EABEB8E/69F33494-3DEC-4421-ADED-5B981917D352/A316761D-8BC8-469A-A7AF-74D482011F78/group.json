@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A316761D-8BC8-469A-A7AF-74D482011F78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 14,
+    "x": 0,
+    "y": 3.624678663239065
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE0A7FC2-3B84-4BD8-A171-F247E71A1A16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22B639FA-5A91-4AA8-AA55-B0E4C7374438"
+    }
+  ],
+  "name": "CompliancePlot1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

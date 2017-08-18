@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "47899B6B-ED06-41F0-82F7-DAD26AAB05B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -312,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "B94E065A-ABC7-4474-A884-6AC69633F9F3"
+    },
+    {
+      "class": "artboard",
+      "id": "FEB871CF-1738-4A03-B5B5-DE4C211A59F3"
+    },
+    {
+      "class": "artboard",
+      "id": "FBC62CDA-28AA-4BC7-8263-FD530142C80A"
+    },
+    {
+      "class": "artboard",
+      "id": "FC119605-C4C0-437B-B7E7-DE0EC33D3907"
+    }
+  ],
+  "name": "+ Icon and Splash Screen",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -253,
+    "guides": [
+    ]
+  }
+}

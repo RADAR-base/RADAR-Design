@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "8D433663-28AD-4357-A773-3D62A09A12EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 777,
+    "width": 20,
+    "x": 888,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31D7F589-D657-4CBE-8959-4FDE3D4AAAC9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C7C8129-579A-4790-ADF8-B9DDA7D6AE3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F7A19B8-1BCF-4FEA-B779-E9AC86A6ACB9"
+    }
+  ],
+  "name": "Marker",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

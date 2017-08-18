@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "80F376BE-B8A1-424C-AEE7-DB5C84D33FB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 183,
+    "width": 1063,
+    "x": 74,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A792DB72-E09E-4CC2-9CE8-ECE97BB380EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12D51259-42E4-47F8-8A31-6FE5B7254BBE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17313BD0-C51E-43A2-8C5B-E9DC9D547E36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0AB85AA4-80D5-4A52-A415-4E9E0E145380"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4C602D1-F688-4ECF-BD7D-B97E8A96E8A2"
+    }
+  ],
+  "name": "Y Axis Lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

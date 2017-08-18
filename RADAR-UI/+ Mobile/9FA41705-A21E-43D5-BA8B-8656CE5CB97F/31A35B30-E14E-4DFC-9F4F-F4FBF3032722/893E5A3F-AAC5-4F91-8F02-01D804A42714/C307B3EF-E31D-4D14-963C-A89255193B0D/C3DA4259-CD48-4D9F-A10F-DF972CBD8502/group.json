@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C3DA4259-CD48-4D9F-A10F-DF972CBD8502",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 54,
+    "x": 79.06615853658536,
+    "y": 7.571428571428555
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "49119FED-F8B0-44AF-AB4A-8CCEF2DFBEE1"
+    },
+    {
+      "class": "text",
+      "id": "954F511F-38FF-4CDA-AF37-EA1C6FF058AF"
+    }
+  ],
+  "name": "Minutes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "8FAA1F29-31D9-435A-A4E7-D7E290679357",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "[Mobile] ",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": -858,
+    "y": 478
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 4
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2F204154-FFDB-49FA-8972-F02814CC5D95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE2DA56A-D86E-4D8A-86E3-1A3F9B4C36D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BFF2077-50FF-4246-99AF-646B1791CCE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E02EECDC-66D1-474F-9FD3-0331EE9C6170"
+    },
+    {
+      "class": "text",
+      "id": "2B5872D2-B82D-47BD-8565-CDAD108A70C6"
+    },
+    {
+      "class": "text",
+      "id": "24B5BA1E-CD22-42DB-98BD-2641C02CD6BC"
+    },
+    {
+      "class": "text",
+      "id": "609F1C50-9914-4CEE-B7C2-D3B36C26423C"
+    },
+    {
+      "class": "text",
+      "id": "A9A94C6A-18B2-43F8-B625-D1642500FE2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "000A7A43-7CC1-47BC-90AD-AA58448D50DC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "300_Q-Intro",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

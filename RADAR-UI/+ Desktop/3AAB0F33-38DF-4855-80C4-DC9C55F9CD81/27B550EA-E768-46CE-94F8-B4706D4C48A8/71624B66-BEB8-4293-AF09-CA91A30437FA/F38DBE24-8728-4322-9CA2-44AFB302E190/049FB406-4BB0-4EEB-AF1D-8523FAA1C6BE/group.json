@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "049FB406-4BB0-4EEB-AF1D-8523FAA1C6BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 89,
+    "width": 1032,
+    "x": 120,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "66A0B6A3-FEA1-417D-A6DF-75747A0C3632"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8AF81456-6887-46A0-BE9C-F8EB941E91B5"
+    },
+    {
+      "class": "group",
+      "id": "0D29540F-73D4-48F1-BF74-E56A10B5D0AE"
+    },
+    {
+      "class": "group",
+      "id": "7B67248F-676C-47B6-A510-1AEDF88CB75D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01A40316-BBE9-4330-BDE9-297C9443812A"
+    }
+  ],
+  "name": "Timeline",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

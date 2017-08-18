@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "A5180C84-FFA8-49F6-9EBD-A023D66BC181",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8,
+    "width": 1016,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0FAA815E-F062-45A3-9F5C-08FC16DB9F16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "584BE71C-1163-441F-8C85-0CA0208D1E43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "450F735E-C720-41C3-B0CF-721BD2C4323C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "317BC3A0-6D22-4FB8-9915-7F3432B5E29B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97EF26B4-5D13-4673-AD22-C1AB615A7D7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F703FBF6-BA83-4464-B222-29A8407CB842"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0517FD6F-18D3-4BDB-B901-2D6A30B19351"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "355467D6-235A-47B8-9BDF-98C4A556D420"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E609BA91-FD17-4FE8-8972-201E3DCC0BC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A22EE38-FA14-4543-A79E-39CF06B34D68"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE057DDA-BCEC-4BD2-93FD-019427BF58F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "042529D8-67BE-4BBE-BA24-AF25DABBA4BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9ABFC64-4C92-487F-B250-1E0B7B3CE14A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3B351D8-08D3-4453-9010-B6FDFAF49787"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "895D0FA2-8B0B-4F38-8E12-B82B8B511FE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C677491F-6FA7-4CCF-95C3-C3D7FB5BF0BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7CCCC60-478D-4179-96D1-88DF64A67304"
+    }
+  ],
+  "name": "X Axis Lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "5DF7DA5E-5DA5-4502-AF6C-49549B3C6E11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 256,
+    "width": 256,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D3A7F1A6-0005-4A78-AF62-165729ADCF61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F493912E-8761-4902-A9D1-B60CA1DF2549"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "267AA126-D062-4863-8AD2-44F35A955DA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89B92E69-59DF-43F8-90DB-9AE20EFF13A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5BBA4FF-04E2-4687-9C15-F135C2946002"
+    }
+  ],
+  "name": "Variable segments circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
