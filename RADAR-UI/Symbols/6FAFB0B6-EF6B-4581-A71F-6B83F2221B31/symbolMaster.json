@@ -7,7 +7,7 @@
     "green": 0.4274509803921569,
     "red": 0.2470588235294117
   },
-  "changeIdentifier": 1108,
+  "changeIdentifier": 1114,
   "do_objectID": "6FAFB0B6-EF6B-4581-A71F-6B83F2221B31",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 62,
     "width": 140,
     "x": 0,
-    "y": 9702
+    "y": 968
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -58,7 +58,7 @@
       "id": "F4A35ECF-2361-498B-BFF4-50F892C9CC8E"
     }
   ],
-  "name": "Status/DataNumber",
+  "name": "Desktop/Status/DataNumber",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

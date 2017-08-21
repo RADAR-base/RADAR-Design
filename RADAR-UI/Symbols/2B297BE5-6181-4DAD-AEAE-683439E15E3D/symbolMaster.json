@@ -7,7 +7,7 @@
     "green": 0.4274509803921569,
     "red": 0.2470588235294117
   },
-  "changeIdentifier": 1576,
+  "changeIdentifier": 1584,
   "do_objectID": "2B297BE5-6181-4DAD-AEAE-683439E15E3D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 52,
     "width": 360,
     "x": 460,
-    "y": 9222
+    "y": 10096
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -68,7 +68,7 @@
       "id": "6DBE4057-6E8D-45CA-B682-75944BFE1327"
     }
   ],
-  "name": "Mobile/Nav/Bottom/QuestionsBar",
+  "name": "Mobile/Nav/Bottom/Questions",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

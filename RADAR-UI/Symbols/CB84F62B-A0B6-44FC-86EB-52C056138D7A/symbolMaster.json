@@ -7,7 +7,7 @@
     "green": 0.4274509803921569,
     "red": 0.2470588235294117
   },
-  "changeIdentifier": 1786,
+  "changeIdentifier": 1793,
   "do_objectID": "CB84F62B-A0B6-44FC-86EB-52C056138D7A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 62,
     "width": 152,
     "x": 240,
-    "y": 9702
+    "y": 968
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -62,7 +62,7 @@
       "id": "5FBCF213-8F47-4697-A392-7B534C6FEA97"
     }
   ],
-  "name": "Status/Warning",
+  "name": "Desktop/Status/Warning",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

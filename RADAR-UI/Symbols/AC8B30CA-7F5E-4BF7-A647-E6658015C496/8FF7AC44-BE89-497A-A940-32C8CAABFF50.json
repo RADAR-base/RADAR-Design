@@ -28,11 +28,11 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Status/DataNumber",
+  "name": "Desktop/Status/DataNumber",
   "nameIsFixed": true,
   "overrides": {
-    "9C1A7821-CDA1-4ED0-AC81-59823F613BE2": "last update",
-    "F4A35ECF-2361-498B-BFF4-50F892C9CC8E": "15:07:32"
+    "9C1A7821-CDA1-4ED0-AC81-59823F613BE2": "status",
+    "F4A35ECF-2361-498B-BFF4-50F892C9CC8E": "Title"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

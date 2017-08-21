@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -66,19 +66,7 @@
     },
     {
       "class": "group",
-      "id": "DDEE53D4-3534-48E5-88F1-82AB8BE5A74E"
-    },
-    {
-      "class": "group",
       "id": "04E0C632-D09C-4C91-87DE-3ED3630B5EB2"
-    },
-    {
-      "class": "group",
-      "id": "D97D9484-14D5-4AAE-B5C4-37A2C3ED96D8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DCC5A174-10CD-4AAE-BF5D-B97B3DD991F5"
     },
     {
       "class": "group",
@@ -87,10 +75,6 @@
     {
       "class": "symbolInstance",
       "id": "08964639-6ACD-4F08-A4FC-6538951F4FE8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "66418DE5-72C7-4023-AD31-B391E9873318"
     },
     {
       "class": "symbolInstance",
@@ -111,6 +95,18 @@
     {
       "class": "symbolInstance",
       "id": "E0393C5D-17CB-4350-9125-D426D6140397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EA1F738-C05B-401F-9711-DF4051081040"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4624C60C-79CE-4796-82AD-ADB34759B461"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1A68812-F70C-471A-94A7-7ADE64524C6A"
     }
   ],
   "name": "301_Study-Sensors List",

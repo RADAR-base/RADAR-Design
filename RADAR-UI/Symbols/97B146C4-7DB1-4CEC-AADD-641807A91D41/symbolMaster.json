@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 198,
+  "changeIdentifier": 203,
   "do_objectID": "97B146C4-7DB1-4CEC-AADD-641807A91D41",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 16,
     "width": 189,
     "x": 312,
-    "y": 5958
+    "y": 544
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "D23F2934-2029-41D5-BC24-87A223009784"
     }
   ],
-  "name": "In/SideList/Item",
+  "name": "Desktop/SideList/Item",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

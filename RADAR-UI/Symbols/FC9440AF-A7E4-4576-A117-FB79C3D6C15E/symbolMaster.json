@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 858,
+  "changeIdentifier": 861,
   "do_objectID": "FC9440AF-A7E4-4576-A117-FB79C3D6C15E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,7 +51,7 @@
     "height": 640,
     "width": 360,
     "x": 0,
-    "y": 6830
+    "y": 7704
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -83,7 +83,7 @@
       "id": "543D681E-4E9C-4C1B-9E7B-0E7EFBF77307"
     }
   ],
-  "name": "Mobile/Backgrounds/BgMobile",
+  "name": "Mobile/Background/Main",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -37,7 +37,7 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Icons/Stopwatch",
+  "name": "Icons/Time/Stopwatch",
   "nameIsFixed": false,
   "overrides": {
   },

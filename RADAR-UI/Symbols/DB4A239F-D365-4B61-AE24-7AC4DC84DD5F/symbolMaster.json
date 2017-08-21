@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 169,
+  "changeIdentifier": 174,
   "do_objectID": "DB4A239F-D365-4B61-AE24-7AC4DC84DD5F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 24,
     "width": 212,
     "x": 0,
-    "y": 5958
+    "y": 544
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "CE956593-3569-4CFD-ABF8-C1879A80531E"
     }
   ],
-  "name": "In/SideList/Dropdown",
+  "name": "Desktop/SideList/Dropdown",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Mobile/Nav/Bottom/QuestionsBar",
+  "name": "Mobile/Nav/Bottom/Questions",
   "nameIsFixed": false,
   "overrides": {
     "96AAEE6D-092E-4405-A851-23EF9952369D": {

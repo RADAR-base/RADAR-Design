@@ -7,7 +7,7 @@
     "green": 0.4274509803921569,
     "red": 0.2470588235294117
   },
-  "changeIdentifier": 56,
+  "changeIdentifier": 3217,
   "do_objectID": "522A23AA-D064-4C88-9BA8-E5BDBCCD44D6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,16 @@
     "height": 544,
     "width": 928,
     "x": 1028,
-    "y": 11348
+    "y": 11760
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 4
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,15 +47,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "FEF218E1-1CBB-4BC2-A607-191E29F57838"
     },
     {
-      "class": "group",
-      "id": "1983E677-845C-4355-9C5B-DA5721043090"
+      "class": "symbolInstance",
+      "id": "C7EF36C9-3B86-4776-B575-D7EFFAD0C198"
     },
     {
       "class": "group",
@@ -62,11 +68,47 @@
     {
       "class": "symbolInstance",
       "id": "2D9D594C-F3A3-4C0F-94F1-3B0EAFF12DD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF8942E5-99F0-40FF-A215-4B6D843F5432"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14AF58DD-76E2-4531-9490-36493BB1FE56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "510FD62E-6D62-4620-AB34-CFA1988AFD20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A46BFA0-6460-4E81-A654-486A6E813491"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89217B95-EDA1-4DAE-99F5-68809C5AD54C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19A20770-BC2C-44FF-A08E-1B1BD58A3E75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FEA84CC8-75C8-46EB-9953-BAFC6B180E57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74E962A5-43FA-4E1D-9B8A-2B6E211CBCC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74D86014-B1DC-4AA5-AB86-515BB7A55673"
     }
   ],
   "name": "Tiles/Study/Subjects",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

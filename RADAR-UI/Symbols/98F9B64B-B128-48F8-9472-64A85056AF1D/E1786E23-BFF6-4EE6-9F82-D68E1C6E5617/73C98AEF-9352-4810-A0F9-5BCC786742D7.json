@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "In/SideList/Item",
+  "name": "Desktop/SideList/Item",
   "nameIsFixed": false,
   "overrides": {
     "BC22BE5C-6843-4BAD-96C0-5CB96E894D70": "Blood Glucose"

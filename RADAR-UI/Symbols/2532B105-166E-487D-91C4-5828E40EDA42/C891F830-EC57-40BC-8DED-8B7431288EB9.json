@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGSElYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwjKi42Nzg5Oj5CRFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA11Nb2JpbGUvQnV0dG9u0xESChMWGVdOUy5rZXlzWk5TLm9iamVjdHOiFBWABIAFohcYgAaACIAQXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUHR4fCiAhISJaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABABgAfSJCUmJ1okY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjJigpXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKKywtXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAD4AJ0xESCi8yNaIwMYAKgAuiMzSADIANgA5fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFlIZWx2ZXRpY2HSJCU7PF8QE05TTXV0YWJsZURpY3Rpb25hcnmjOz0pXE5TRGljdGlvbmFyedIkJT9AXxAQTlNGb250RGVzY3JpcHRvcqJBKV8QEE5TRm9udERlc2NyaXB0b3LSJCU9Q6I9KdIkJUVGXxASTlNBdHRyaWJ1dGVkU3RyaW5nokcpXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0UpLVHJvb3SAAQAIABEAGgAjAC0AMgA3AEwAUgBZAGIAaQB2AHgAegB8AIoAkQCZAKQApwCpAKsArgCwALIAtADHAOkA8gD9AQkBKwEtAS8BMQE2AUEBSgFkAWgBewGEAYkBpgGoAaoBsQG0AbYBuAG7Ab0BvwHBAdcB7QH2AgACBQIbAh8CLAIxAkQCRwJaAl8CYgJnAnwCfwKUAqYCqQKuAAAAAAAAAgEAAAAAAAAATAAAAAAAAAAAAAAAAAAAArA="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C891F830-EC57-40BC-8DED-8B7431288EB9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 123,
+    "x": 49,
+    "y": 8744
+  },
+  "glyphBounds": "{{1, 4}, {120, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Mobile/Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "16C425B0-14A5-4606-8446-004E64D3F8C1"
+  },
+  "textBehaviour": 0
+}

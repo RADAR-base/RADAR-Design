@@ -7,7 +7,7 @@
     "green": 0.4274509803921569,
     "red": 0.2470588235294117
   },
-  "changeIdentifier": 57,
+  "changeIdentifier": 62,
   "do_objectID": "20248E47-0C2D-4EE2-8454-F3A933F6DF87",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 40,
     "width": 72,
     "x": 0,
-    "y": 8326
+    "y": 9200
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -56,7 +56,7 @@
       "id": "3FE7EC5A-17FF-42EE-88D3-56A0F3DC779B"
     }
   ],
-  "name": "Mobile/In/TasksTime",
+  "name": "Mobile/In/Time/Tasks",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

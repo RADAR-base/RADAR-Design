@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 712,
+  "changeIdentifier": 715,
   "do_objectID": "7B89F99E-E40C-450C-87B1-CBAE392B12D2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 4,
     "width": 360,
     "x": 1380,
-    "y": 9222
+    "y": 10096
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "89126403-B01D-4EA0-9570-C4F591794061"
     }
   ],
-  "name": "Mobile/Nav/Progress00",
+  "name": "Mobile/Nav/Progress-00",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

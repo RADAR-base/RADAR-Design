@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Icons/Warning",
+  "name": "Icons/Status/Warning",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

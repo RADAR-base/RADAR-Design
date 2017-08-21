@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 42,
+  "changeIdentifier": 54,
   "do_objectID": "CE70D685-CD1A-47DE-9A45-042D173709A8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
     "height": 24,
     "width": 24,
     "x": 732,
-    "y": 4238
+    "y": 5536
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -63,7 +63,7 @@
   ],
   "name": "Icons/Nav/Refresh",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
