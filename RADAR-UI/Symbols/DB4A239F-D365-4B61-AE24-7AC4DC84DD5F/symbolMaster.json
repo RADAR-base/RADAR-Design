@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 168,
+  "changeIdentifier": 169,
   "do_objectID": "DB4A239F-D365-4B61-AE24-7AC4DC84DD5F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,14 +27,14 @@
     "y": 5958
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,

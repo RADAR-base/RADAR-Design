@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
+    "alpha": 0.8,
     "blue": 0.5137254901960784,
     "green": 0.4274509803921569,
     "red": 0.2470588235294117
   },
-  "changeIdentifier": 37,
+  "changeIdentifier": 38,
   "do_objectID": "1B3568AF-303E-4B26-A185-A448C0C4269B",
   "exportOptions": {
     "_class": "exportOptions",

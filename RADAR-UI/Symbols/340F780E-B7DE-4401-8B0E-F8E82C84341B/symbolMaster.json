@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
+    "alpha": 0.8,
     "blue": 0.5137254901960784,
     "green": 0.4274509803921569,
     "red": 0.2470588235294117
   },
-  "changeIdentifier": 476,
+  "changeIdentifier": 481,
   "do_objectID": "340F780E-B7DE-4401-8B0E-F8E82C84341B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -34,7 +34,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
