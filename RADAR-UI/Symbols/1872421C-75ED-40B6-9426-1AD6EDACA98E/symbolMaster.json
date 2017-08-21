@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
+    "blue": 0.5137254901960784,
+    "green": 0.4274509803921569,
+    "red": 0.2470588235294117
   },
-  "changeIdentifier": 9,
+  "changeIdentifier": 198,
   "do_objectID": "1872421C-75ED-40B6-9426-1AD6EDACA98E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 200,
     "width": 200,
-    "x": 5977,
-    "y": 706
+    "x": 852,
+    "y": 2726
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -50,15 +50,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "9FFF225F-4C5A-4C86-AAFB-88EA9FA0C087"
     }
   ],
-  "name": "radar-logo",
-  "nameIsFixed": false,
+  "name": "Icons/Large/RadarLogo",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

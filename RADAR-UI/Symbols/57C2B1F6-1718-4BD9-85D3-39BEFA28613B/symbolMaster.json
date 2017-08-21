@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 35,
   "do_objectID": "57C2B1F6-1718-4BD9-85D3-39BEFA28613B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 3432,
-    "y": 706
+    "x": 0,
+    "y": 4238
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,7 +61,7 @@
       "id": "6A608A92-9B73-4BFC-A8EA-06F8AD8FD795"
     }
   ],
-  "name": "Icons/arrow-back",
+  "name": "Icons/Nav/ArrowBack",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

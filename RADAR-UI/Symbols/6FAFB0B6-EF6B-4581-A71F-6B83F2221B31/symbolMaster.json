@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 1061,
+  "changeIdentifier": 1106,
   "do_objectID": "6FAFB0B6-EF6B-4581-A71F-6B83F2221B31",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 62,
     "width": 140,
-    "x": 2812,
-    "y": 5149
+    "x": 0,
+    "y": 9702
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -58,7 +58,7 @@
       "id": "F4A35ECF-2361-498B-BFF4-50F892C9CC8E"
     }
   ],
-  "name": "Status/Data-Number",
+  "name": "Status/DataNumber",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

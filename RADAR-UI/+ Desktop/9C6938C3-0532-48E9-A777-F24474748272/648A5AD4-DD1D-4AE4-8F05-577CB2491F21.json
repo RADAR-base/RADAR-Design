@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Tile/Content/Status Copy 4",
+  "name": "Tiles/Status",
   "nameIsFixed": false,
   "overrides": {
     "3B8998E4-9A77-4A3C-9EC6-FE804F3FB182": {

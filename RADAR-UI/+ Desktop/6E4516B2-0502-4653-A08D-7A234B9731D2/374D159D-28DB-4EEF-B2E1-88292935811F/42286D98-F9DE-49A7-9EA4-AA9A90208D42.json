@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "dash-module",
+  "name": "Tiles/Tile/Box",
   "nameIsFixed": false,
   "overrides": {
     "E8DE3261-4606-448D-9751-14A1960DC855": {

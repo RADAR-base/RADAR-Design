@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 740,
+  "changeIdentifier": 858,
   "do_objectID": "FC9440AF-A7E4-4576-A117-FB79C3D6C15E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,8 +50,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 2812,
-    "y": 3645
+    "x": 0,
+    "y": 6830
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -68,7 +68,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -83,7 +83,7 @@
       "id": "543D681E-4E9C-4C1B-9E7B-0E7EFBF77307"
     }
   ],
-  "name": "Backgrounds/bg-mobile",
+  "name": "Mobile/Backgrounds/BgMobile",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

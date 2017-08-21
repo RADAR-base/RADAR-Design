@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 168,
+  "changeIdentifier": 198,
   "do_objectID": "F01218AD-0937-47B6-A8E5-2AE6E11E9A01",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 2860,
-    "y": 282
+    "x": 124,
+    "y": 1878
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -61,7 +61,7 @@
       "id": "395CCE9A-DCDB-4A61-AD87-5FEE2633B0D0"
     }
   ],
-  "name": "Icons/info-hover",
+  "name": "Icons/Info/Hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

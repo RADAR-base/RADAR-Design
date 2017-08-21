@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 310,
+  "changeIdentifier": 341,
   "do_objectID": "DA02BB68-5CA6-4893-AD6E-1056490A16EB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 3308,
-    "y": 706
+    "x": 372,
+    "y": 4238
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -61,7 +61,7 @@
       "id": "94EDA431-6E33-478D-B3BB-1CD4EEA51FFE"
     }
   ],
-  "name": "Icons/close-left",
+  "name": "Icons/Nav/CloseLeft",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

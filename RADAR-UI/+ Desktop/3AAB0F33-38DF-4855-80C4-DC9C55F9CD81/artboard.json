@@ -54,15 +54,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "9F80FAE1-EA81-462D-9ABF-9D6D82D7D82D"
     },
     {
-      "class": "group",
-      "id": "27B550EA-E768-46CE-94F8-B4706D4C48A8"
+      "class": "symbolInstance",
+      "id": "0F13BEFA-3BEA-4033-A5F6-095BD09BCA37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA1B2BF3-4BEF-4472-9ABA-5E497E525762"
     },
     {
       "class": "symbolInstance",
@@ -73,7 +77,7 @@
       "id": "25154142-CF5D-4B96-A47D-7BDBAA47405C"
     }
   ],
-  "name": "400_Patient-Overlay",
+  "name": "400_Subject-Overlay",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

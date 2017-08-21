@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Icons/eye-on",
-  "nameIsFixed": false,
+  "name": "Icons/Input/Eye-On",
+  "nameIsFixed": true,
   "overrides": {
   },
   "resizingConstraint": 63,

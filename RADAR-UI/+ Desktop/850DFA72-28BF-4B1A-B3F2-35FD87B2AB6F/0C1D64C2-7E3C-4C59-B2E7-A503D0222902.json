@@ -28,13 +28,13 @@
   "masterInfluenceEdgeMaxYPadding": 10,
   "masterInfluenceEdgeMinXPadding": 8,
   "masterInfluenceEdgeMinYPadding": 6,
-  "name": "UI/App Bar Copy",
+  "name": "Desktop/Nav/AppBar-Inner",
   "nameIsFixed": false,
   "overrides": {
     "5DC172D8-C19E-4939-A21A-65444F2697D3": {
       "symbolID": "3A01116C-5938-46DC-AD1A-EB5FEF7739B6"
     },
-    "6F544270-D353-4379-9AC0-9975B09B9070": "Patient #162521542"
+    "6F544270-D353-4379-9AC0-9975B09B9070": "Subject #162521542"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 36,
   "do_objectID": "ED50538F-1CFC-4F53-8392-0C70C88C8E0D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 3432,
-    "y": 1306
+    "x": 124,
+    "y": 3790
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,8 +61,8 @@
       "id": "44440867-7A8D-474F-B52F-5BF14779C3FE"
     }
   ],
-  "name": "Icons/notifications",
-  "nameIsFixed": false,
+  "name": "Icons/Misc/Notifications",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

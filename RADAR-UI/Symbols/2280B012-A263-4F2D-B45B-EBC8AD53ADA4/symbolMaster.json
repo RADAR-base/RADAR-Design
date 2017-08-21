@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 37,
   "do_objectID": "2280B012-A263-4F2D-B45B-EBC8AD53ADA4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 4660,
-    "y": 706
+    "x": 248,
+    "y": 4662
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,8 +61,8 @@
       "id": "5A1BED7D-7EF8-4EE0-881D-DA1C34831F64"
     }
   ],
-  "name": "Icons/first-page",
-  "nameIsFixed": false,
+  "name": "Icons/Pagination/FirstPage",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

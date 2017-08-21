@@ -16,7 +16,7 @@
     "height": 48,
     "width": 360,
     "x": 0,
-    "y": 592
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "navbar",
+  "name": "Material/Android/Navbar360dpBlack",
   "nameIsFixed": false,
   "overrides": {
   },

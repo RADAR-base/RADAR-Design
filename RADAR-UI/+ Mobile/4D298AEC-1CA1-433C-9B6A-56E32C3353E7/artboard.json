@@ -54,8 +54,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4D325AA1-95C7-4020-896B-EC00B69BE3D7"
+    },
     {
       "class": "group",
       "id": "8FB3687B-230E-4CFB-B3CB-0F325AEEE28F"
@@ -69,8 +73,8 @@
       "id": "98981F32-5E46-41B6-8E16-DD87D2F91444"
     },
     {
-      "class": "group",
-      "id": "FE605737-F7D8-4EBB-9FE8-6DA099DF8D57"
+      "class": "symbolInstance",
+      "id": "D91B94C5-74A4-48DC-B982-10F7FB9DD496"
     }
   ],
   "layout": {

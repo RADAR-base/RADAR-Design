@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -69,11 +69,15 @@
       "id": "C77DA11D-0ACB-4A3E-85C4-08A99AAFEF4F"
     },
     {
-      "class": "group",
-      "id": "F0397F72-1132-4F63-9E89-958988EE7CF8"
+      "class": "symbolInstance",
+      "id": "FFA30975-B9BB-430F-9A15-EF152281B68F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C15AC156-2BF8-4C07-9E13-ED5BD7504014"
     }
   ],
-  "name": "401_Patient-Chart Info",
+  "name": "401_Subject-Chart Info",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

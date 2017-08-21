@@ -7,7 +7,7 @@
     "green": 0.2901752889156342,
     "red": 0.290221631526947
   },
-  "changeIdentifier": 62,
+  "changeIdentifier": 93,
   "do_objectID": "645FAE39-ED77-4370-8FD2-161D35DFC149",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 3688,
-    "y": 1306
+    "x": 0,
+    "y": 1446
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,14 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "2332908D-614C-4484-A05F-5DFA019F2136"
+      "class": "shapeGroup",
+      "id": "E59486AA-C15E-4289-A3C6-849097F72108"
     }
   ],
-  "name": "Icons/graph-check",
+  "name": "Icons/Graph/Check",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 377,
+  "changeIdentifier": 1567,
   "do_objectID": "2B297BE5-6181-4DAD-AEAE-683439E15E3D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 52,
     "width": 360,
-    "x": 3950,
-    "y": 2409
+    "x": 460,
+    "y": 9222
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -68,9 +68,9 @@
       "id": "6DBE4057-6E8D-45CA-B682-75944BFE1327"
     }
   ],
-  "name": "Nav/bottom nav bar",
+  "name": "Mobile/Nav/Bottom/QuestionsBar",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

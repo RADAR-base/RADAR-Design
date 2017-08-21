@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.3490196078431372,
-    "green": 0.2901960784313725,
-    "red": 0.04313725490196078
+    "blue": 0.5137254901960784,
+    "green": 0.4274509803921569,
+    "red": 0.2470588235294117
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 37,
   "do_objectID": "1B3568AF-303E-4B26-A185-A448C0C4269B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,17 +32,17 @@
     "constrainProportions": false,
     "height": 132,
     "width": 152,
-    "x": 3308,
-    "y": 1761
+    "x": 600,
+    "y": 2726
   },
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,8 +71,8 @@
       "id": "8A26C185-2D41-4119-8989-C178AE664868"
     }
   ],
-  "name": "Icons/eye-open",
-  "nameIsFixed": false,
+  "name": "Icons/Large/Eye-Open",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

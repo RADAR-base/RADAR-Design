@@ -28,11 +28,11 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "chevron left",
+  "name": "Icons/Nav/ChevronRight",
   "nameIsFixed": true,
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 46,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

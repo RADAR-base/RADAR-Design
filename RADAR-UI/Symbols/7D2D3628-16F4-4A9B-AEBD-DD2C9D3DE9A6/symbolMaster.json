@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 152,
   "do_objectID": "7D2D3628-16F4-4A9B-AEBD-DD2C9D3DE9A6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 432,
     "width": 12,
-    "x": 6670,
-    "y": 2409
+    "x": 120,
+    "y": 14196
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,12 +44,16 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "54F413B0-B978-4491-8191-03EB3B1E3298"
+      "class": "shapeGroup",
+      "id": "0FB1761C-7267-48BB-90B0-D9197E8A53A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1385C710-CB65-4D04-ABD1-7CA1554EC3F2"
     }
   ],
   "name": "UI/Scrollbar",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

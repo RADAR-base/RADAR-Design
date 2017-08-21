@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 38,
   "do_objectID": "2F3F0931-C4E8-44FD-83AE-34DEF7E6559E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 5156,
-    "y": 706
+    "x": 0,
+    "y": 3374
   },
   "grid": {
     "_class": "simpleGrid",
@@ -42,7 +42,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,7 +63,7 @@
       "id": "54F4F162-3105-4DF6-97E6-65B667BECD20"
     }
   ],
-  "name": "Icons/play-circle",
+  "name": "Icons/Markers/Play",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

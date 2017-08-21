@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 97,
+  "changeIdentifier": 217,
   "do_objectID": "07EEB3F7-92C9-49AA-9379-E5F059945D74",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 64,
     "width": 1440,
-    "x": 2812,
-    "y": 4685
+    "x": 0,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -72,8 +72,8 @@
       "id": "BFF6012F-2096-4E22-B11F-52366F0A190C"
     }
   ],
-  "name": "UI/App Bar/Home",
-  "nameIsFixed": false,
+  "name": "Desktop/Nav/AppBar-Home",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

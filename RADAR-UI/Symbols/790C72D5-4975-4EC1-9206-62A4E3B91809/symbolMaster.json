@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 36,
   "do_objectID": "790C72D5-4975-4EC1-9206-62A4E3B91809",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 4164,
-    "y": 706
+    "x": 248,
+    "y": 2302
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,7 +61,7 @@
       "id": "F8A2579D-52E0-4260-84EB-27DB3F484021"
     }
   ],
-  "name": "Icons/eye-off",
+  "name": "Icons/Input/Eye-Off",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

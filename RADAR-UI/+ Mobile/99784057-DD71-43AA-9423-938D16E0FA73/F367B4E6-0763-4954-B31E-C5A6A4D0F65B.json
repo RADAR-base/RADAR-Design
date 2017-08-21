@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "status bar",
+  "name": "Material/Android/StatusBar360dpLightGray",
   "nameIsFixed": true,
   "overrides": {
   },

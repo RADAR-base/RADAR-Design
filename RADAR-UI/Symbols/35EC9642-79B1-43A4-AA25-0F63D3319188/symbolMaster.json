@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 34,
   "do_objectID": "35EC9642-79B1-43A4-AA25-0F63D3319188",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 3916,
-    "y": 706
+    "x": 0,
+    "y": 3790
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,8 +61,8 @@
       "id": "183E2D3A-F86A-4AE5-89C6-59D331B2F541"
     }
   ],
-  "name": "Icons/add-circle",
-  "nameIsFixed": false,
+  "name": "Icons/Misc/AddCircle",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

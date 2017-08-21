@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 39,
   "do_objectID": "B8DF5FD1-1608-4AAA-AB17-6F9FAD22395D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 4288,
-    "y": 706
+    "x": 132,
+    "y": 544
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,7 +61,7 @@
       "id": "5ACD2940-0651-45EF-960F-6B0D2740D5A7"
     }
   ],
-  "name": "Icons/empty-bar",
+  "name": "Graph/Icons/EmptyBar",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

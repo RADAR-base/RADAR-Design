@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 77,
   "do_objectID": "AEFB86A8-E828-49B6-AB49-11ED7931A2D1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,8 +24,8 @@
     "do_objectID": "6A046A65-2363-477E-BADE-0533E9459C0D",
     "height": 48,
     "width": 360,
-    "x": 2812,
-    "y": 2409
+    "x": 0,
+    "y": 6382
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,7 +61,7 @@
       "id": "5526CE7F-5C36-4D43-B836-4FDA22039F9F"
     }
   ],
-  "name": "Material/Android/Navbar 360dp black",
+  "name": "Material/Android/Navbar360dpBlack",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

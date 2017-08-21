@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 38,
+  "changeIdentifier": 172,
   "do_objectID": "94C45D9A-69F7-4889-BCA4-EEF5696EF80E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 360,
-    "x": 3490,
-    "y": 2409
+    "x": 460,
+    "y": 6382
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,7 +52,7 @@
       "id": "D3980611-B22F-47D3-84DC-495751665972"
     }
   ],
-  "name": "Material/Android/Status bar 360dp light gray",
+  "name": "Material/Android/StatusBar360dpLightGray",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

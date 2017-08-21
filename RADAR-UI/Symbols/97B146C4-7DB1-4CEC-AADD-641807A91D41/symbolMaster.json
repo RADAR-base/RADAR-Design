@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 16,
+  "changeIdentifier": 197,
   "do_objectID": "97B146C4-7DB1-4CEC-AADD-641807A91D41",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 189,
-    "x": 5952,
-    "y": 2409
+    "x": 312,
+    "y": 5958
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "D23F2934-2029-41D5-BC24-87A223009784"
     }
   ],
-  "name": "UI/SideList/Item",
+  "name": "In/SideList/Item",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

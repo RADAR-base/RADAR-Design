@@ -32,9 +32,9 @@
       "id": "9252B74C-103A-4B9B-ABB4-657534A39178"
     }
   ],
-  "name": "Rectangle 7",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "bg",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

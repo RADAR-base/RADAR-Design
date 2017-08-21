@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 170,
+  "changeIdentifier": 220,
   "do_objectID": "A31AA57A-9F83-40EB-B308-6001F3CAFF5C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 176,
     "width": 224,
-    "x": 3360,
-    "y": 5611
+    "x": 548,
+    "y": 13620
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,7 +52,7 @@
       "id": "E8DE3261-4606-448D-9751-14A1960DC855"
     }
   ],
-  "name": "Tiles/Tile",
+  "name": "Tiles/Tile/Box",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

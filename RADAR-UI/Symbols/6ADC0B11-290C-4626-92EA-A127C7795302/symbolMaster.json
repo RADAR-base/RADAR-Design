@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 33,
   "do_objectID": "6ADC0B11-290C-4626-92EA-A127C7795302",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 2936,
-    "y": 1306
+    "x": 124,
+    "y": 2302
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -57,7 +57,7 @@
       "id": "2B9C35CD-8B39-4127-81E7-51B3D3E98BC7"
     }
   ],
-  "name": "Icons/arrow-dropdown-right",
+  "name": "Icons/Input/ArrowDropdown-Right",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

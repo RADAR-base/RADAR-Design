@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 280,
+  "changeIdentifier": 563,
   "do_objectID": "C8D02CC7-1656-4C94-9872-FF3DF906F331",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 4,
     "width": 360,
-    "x": 3272,
-    "y": 3241
+    "x": 2300,
+    "y": 9222
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,8 +52,8 @@
       "id": "BB071B1E-ADA8-43D0-A6E7-A05E33FCC7FB"
     }
   ],
-  "name": "Nav/bottom-progress-60",
-  "nameIsFixed": false,
+  "name": "Mobile/Nav/Progress60",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

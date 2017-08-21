@@ -54,15 +54,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "969CA56B-5CB6-4E10-A301-6ACB5A1C417B"
     },
     {
-      "class": "group",
-      "id": "1B4053BC-EAE8-4348-BBDB-C7C0AEA1D5C4"
+      "class": "symbolInstance",
+      "id": "6AA1E819-2CC2-4B21-A860-E96244B6D554"
     },
     {
       "class": "symbolInstance",
@@ -71,9 +71,13 @@
     {
       "class": "symbolInstance",
       "id": "77BB461D-6FC6-4FFB-8E28-AB282267BCF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BAE1B05-EC98-4087-A3E7-5BB2A6FC8B5B"
     }
   ],
-  "name": "402_Patient-Marker Info",
+  "name": "402_Subject-Marker Info",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

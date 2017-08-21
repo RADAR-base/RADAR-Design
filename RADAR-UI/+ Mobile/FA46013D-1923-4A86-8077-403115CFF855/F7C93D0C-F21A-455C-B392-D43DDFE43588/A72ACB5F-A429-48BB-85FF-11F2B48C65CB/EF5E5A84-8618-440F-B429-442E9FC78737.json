@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "UI/tasks-time",
+  "name": "Mobile/In/TasksTime",
   "nameIsFixed": false,
   "overrides": {
     "62DD40AB-63DE-47E1-A018-BE24159FEF71": "10"

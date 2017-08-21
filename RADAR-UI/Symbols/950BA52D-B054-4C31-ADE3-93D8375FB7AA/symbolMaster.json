@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 38,
   "do_objectID": "950BA52D-B054-4C31-ADE3-93D8375FB7AA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 4784,
-    "y": 706
+    "x": 0,
+    "y": 4662
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,8 +61,8 @@
       "id": "235662D6-393B-4CB2-BE97-3013874BC31B"
     }
   ],
-  "name": "Icons/chevron-left",
-  "nameIsFixed": false,
+  "name": "Icons/Pagination/Chevron-Left",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

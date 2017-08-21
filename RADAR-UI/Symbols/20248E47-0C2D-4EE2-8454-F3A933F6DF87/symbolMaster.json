@@ -7,7 +7,7 @@
     "green": 0.6039215686274509,
     "red": 0.4274509803921568
   },
-  "changeIdentifier": 18,
+  "changeIdentifier": 55,
   "do_objectID": "20248E47-0C2D-4EE2-8454-F3A933F6DF87",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 72,
-    "x": 5388,
-    "y": 706
+    "x": 0,
+    "y": 8326
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -56,8 +56,8 @@
       "id": "3FE7EC5A-17FF-42EE-88D3-56A0F3DC779B"
     }
   ],
-  "name": "UI/tasks-time",
-  "nameIsFixed": false,
+  "name": "Mobile/In/TasksTime",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

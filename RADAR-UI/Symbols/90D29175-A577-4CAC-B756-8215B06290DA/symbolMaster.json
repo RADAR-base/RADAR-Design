@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 46,
   "do_objectID": "90D29175-A577-4CAC-B756-8215B06290DA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 31,
     "width": 51,
-    "x": 5826,
-    "y": 706
+    "x": 0,
+    "y": 10164
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "D48D3760-8A07-448E-8164-9446087D0B0C"
     }
   ],
-  "name": "More",
-  "nameIsFixed": false,
+  "name": "TBD/ChevronMoreDown",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

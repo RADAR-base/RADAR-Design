@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 37,
   "do_objectID": "7532D1D9-31AD-4FC5-9979-1E620AF337EF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 5032,
-    "y": 706
+    "x": 372,
+    "y": 4662
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,8 +61,8 @@
       "id": "881783A2-3721-41C2-AD87-F3104E2A7181"
     }
   ],
-  "name": "Icons/last-page",
-  "nameIsFixed": false,
+  "name": "Icons/Pagination/LastPage",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

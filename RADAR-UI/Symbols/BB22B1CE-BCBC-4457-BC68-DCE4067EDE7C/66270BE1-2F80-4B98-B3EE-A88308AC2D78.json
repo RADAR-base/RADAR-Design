@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "back",
+  "name": "Icons/Nav/ArrowBack",
   "nameIsFixed": true,
   "overrides": {
   },

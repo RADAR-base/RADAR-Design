@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.5137254901960784,
+    "green": 0.4274509803921569,
+    "red": 0.2470588235294117
   },
-  "changeIdentifier": 384,
+  "changeIdentifier": 476,
   "do_objectID": "340F780E-B7DE-4401-8B0E-F8E82C84341B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,25 +23,25 @@
     "constrainProportions": false,
     "height": 352,
     "width": 464,
-    "x": 3684,
-    "y": 5611
+    "x": 0,
+    "y": 10596
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,7 +56,7 @@
       "id": "A1D60D5B-5286-43E9-BB16-4F85148E9403"
     }
   ],
-  "name": "Tiles/Content/Scores",
+  "name": "Tiles/Scores",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -66,6 +66,24 @@
   "style": {
     "_class": "style",
     "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },

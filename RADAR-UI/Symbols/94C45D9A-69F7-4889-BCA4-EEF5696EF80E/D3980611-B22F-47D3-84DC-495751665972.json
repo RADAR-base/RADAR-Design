@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "status bar contents",
-  "nameIsFixed": false,
+  "name": "Material/Android/StatusBarContentDark",
+  "nameIsFixed": true,
   "overrides": {
   },
   "resizingConstraint": 44,

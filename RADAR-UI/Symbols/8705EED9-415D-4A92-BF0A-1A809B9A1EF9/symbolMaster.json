@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 12,
+  "changeIdentifier": 51,
   "do_objectID": "8705EED9-415D-4A92-BF0A-1A809B9A1EF9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 45,
     "width": 42,
-    "x": 5560,
-    "y": 706
+    "x": 296,
+    "y": 5510
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "BD12DC08-1657-4B46-A4C6-4B4148C775F2"
     }
   ],
-  "name": "stopwatch",
-  "nameIsFixed": false,
+  "name": "Icons/Time/Stopwatch",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

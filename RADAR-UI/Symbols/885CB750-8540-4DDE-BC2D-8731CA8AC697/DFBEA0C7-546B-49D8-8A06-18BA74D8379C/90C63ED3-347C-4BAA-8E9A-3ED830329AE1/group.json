@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "90C63ED3-347C-4BAA-8E9A-3ED830329AE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 198,
+    "width": 1137,
+    "x": 14,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5B55DD05-298A-45C1-9095-EF7394FD8023"
+    },
+    {
+      "class": "group",
+      "id": "19E54831-2D38-406D-A70A-7FB4C8D8FC98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06B62982-E0DA-4F49-939C-6DFEF0D3A5E8"
+    },
+    {
+      "class": "text",
+      "id": "38C987EF-726D-4E56-8049-200DEE74CEC9"
+    }
+  ],
+  "name": "Heart Rate",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

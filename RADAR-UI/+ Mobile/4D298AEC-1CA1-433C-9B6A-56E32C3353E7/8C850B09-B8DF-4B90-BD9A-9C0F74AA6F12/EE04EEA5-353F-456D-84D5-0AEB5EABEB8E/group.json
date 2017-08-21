@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
+    "height": 170,
     "width": 290,
     "x": 19,
-    "y": 51.11568123393317
+    "y": 107.1156812339332
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -32,10 +32,6 @@
     {
       "class": "group",
       "id": "69F33494-3DEC-4421-ADED-5B981917D352"
-    },
-    {
-      "class": "group",
-      "id": "4FF3011D-0A74-41E2-AA20-F55DEA0E9043"
     }
   ],
   "name": "Report",

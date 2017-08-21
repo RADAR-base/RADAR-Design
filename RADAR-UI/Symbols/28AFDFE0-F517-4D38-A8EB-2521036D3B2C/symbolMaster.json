@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 18,
+  "changeIdentifier": 47,
   "do_objectID": "28AFDFE0-F517-4D38-A8EB-2521036D3B2C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 2812,
-    "y": 282
+    "x": 248,
+    "y": 1878
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,8 +61,8 @@
       "id": "101F0913-BD76-4519-9D8E-016657506442"
     }
   ],
-  "name": "Icons/info-outline",
-  "nameIsFixed": false,
+  "name": "Icons/Info/Outline",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

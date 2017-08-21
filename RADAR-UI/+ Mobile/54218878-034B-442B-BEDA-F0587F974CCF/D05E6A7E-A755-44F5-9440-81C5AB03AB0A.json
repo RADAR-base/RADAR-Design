@@ -28,9 +28,14 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "button large",
+  "name": "Mobile/Button/Rounded",
   "nameIsFixed": false,
   "overrides": {
+    "DEDB78B9-0051-42D7-A9B2-2E7890C64235": {
+      "2819E2D9-91F9-44DA-B32A-4C70A62EAB5F": "FInish",
+      "93D01E6B-75EE-4534-B013-33A4FDD30245": "FInish",
+      "symbolID": "5D36EA68-EB8B-4CDA-88A0-0E4AFF06638B"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,6 +47,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "3E6481B4-63CB-4782-9852-772D2625E082",
+  "symbolID": "7CE18E85-93D0-44C7-9E9C-0D215682F3FE",
   "verticalSpacing": 0
 }

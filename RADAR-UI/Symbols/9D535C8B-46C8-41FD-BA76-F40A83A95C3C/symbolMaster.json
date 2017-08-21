@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 42,
   "do_objectID": "9D535C8B-46C8-41FD-BA76-F40A83A95C3C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 4412,
-    "y": 706
+    "x": 0,
+    "y": 5086
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -50,15 +50,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "78100F5B-550B-4304-8C4D-690ED7471185"
     }
   ],
-  "name": "Icons/warning",
-  "nameIsFixed": false,
+  "name": "Icons/Status/Warning",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 42,
   "do_objectID": "29AD80A3-9D5E-4C03-BE56-9416D708E863",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 4116,
-    "y": 1306
+    "x": 148,
+    "y": 5510
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -57,8 +57,8 @@
       "id": "8EAAF86A-A63D-4884-8131-48DB475585CD"
     }
   ],
-  "name": "Icons/time-night",
-  "nameIsFixed": false,
+  "name": "Icons/Time/Night",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

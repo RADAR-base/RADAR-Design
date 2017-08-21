@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 10,
+  "changeIdentifier": 50,
   "do_objectID": "040F18B2-7FE5-4B2A-8223-9DDA840BBB6E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 25,
-    "x": 6277,
-    "y": 706
+    "x": 151,
+    "y": 10164
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "1F113972-68CD-4261-B96A-38E074825AAA"
     }
   ],
-  "name": "IconTasks",
-  "nameIsFixed": false,
+  "name": "TBD/IconTasks",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

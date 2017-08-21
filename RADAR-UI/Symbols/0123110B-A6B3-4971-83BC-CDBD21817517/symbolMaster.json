@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 69,
   "do_objectID": "0123110B-A6B3-4971-83BC-CDBD21817517",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 118,
-    "x": 3272,
-    "y": 2409
+    "x": 920,
+    "y": 6382
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -60,7 +60,7 @@
       "id": "CBDAD5C8-98E4-4602-A582-0F8CAA42D59A"
     }
   ],
-  "name": "Material/Android/Status bar content dark",
+  "name": "Material/Android/StatusBarContentDark",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

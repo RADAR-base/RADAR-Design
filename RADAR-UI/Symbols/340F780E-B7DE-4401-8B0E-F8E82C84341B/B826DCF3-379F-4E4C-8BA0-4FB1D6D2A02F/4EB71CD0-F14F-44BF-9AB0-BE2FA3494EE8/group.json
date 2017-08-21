@@ -46,8 +46,8 @@
       "id": "E45DF0A4-21F8-470F-8A4B-81DDC7DE23A6"
     }
   ],
-  "name": "Variable segments circle",
-  "nameIsFixed": false,
+  "name": "Chart",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

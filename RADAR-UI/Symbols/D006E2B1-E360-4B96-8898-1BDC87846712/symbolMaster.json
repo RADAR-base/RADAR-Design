@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 42,
   "do_objectID": "D006E2B1-E360-4B96-8898-1BDC87846712",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 3968,
-    "y": 1306
+    "x": 438,
+    "y": 5510
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -57,8 +57,8 @@
       "id": "06BA0809-A6CE-4038-9DB2-49CC0A86C40B"
     }
   ],
-  "name": "Icons/time-sunrise",
-  "nameIsFixed": false,
+  "name": "Icons/Time/Sunrise",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 40,
   "do_objectID": "39E2B815-2B1A-4066-B640-46BED7FA4DE6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 5272,
-    "y": 706
+    "x": 116,
+    "y": 3374
   },
   "grid": {
     "_class": "simpleGrid",
@@ -42,7 +42,7 @@
     "thickGridTimes": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,8 +63,8 @@
       "id": "91895137-8D98-445C-89F3-147A68D17BCD"
     }
   ],
-  "name": "Icons/stop-circle",
-  "nameIsFixed": false,
+  "name": "Icons/Markers/Stop",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 10,
   "masterInfluenceEdgeMinXPadding": 8,
   "masterInfluenceEdgeMinYPadding": 6,
-  "name": "UI/App Bar/Home",
+  "name": "Desktop/Nav/AppBar-Home",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

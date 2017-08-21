@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "UI/Graph/check",
+  "name": "Graph/Icons/Check",
   "nameIsFixed": false,
   "overrides": {
   },

@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 42,
   "do_objectID": "CE70D685-CD1A-47DE-9A45-042D173709A8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 4536,
-    "y": 706
+    "x": 732,
+    "y": 4238
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,8 +61,8 @@
       "id": "03A129AC-F3F4-4A8F-84A0-6B55B6F2A7AE"
     }
   ],
-  "name": "Icons/refresh",
-  "nameIsFixed": false,
+  "name": "Icons/Nav/Refresh",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

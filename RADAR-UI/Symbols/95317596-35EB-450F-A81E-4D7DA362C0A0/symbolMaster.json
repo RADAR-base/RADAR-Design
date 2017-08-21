@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 212,
   "do_objectID": "95317596-35EB-450F-A81E-4D7DA362C0A0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 144,
     "width": 242,
-    "x": 5298,
-    "y": 2409
+    "x": 3080,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -60,8 +60,8 @@
       "id": "48A200D2-30CB-47FB-8D4E-60A0CE988A63"
     }
   ],
-  "name": "Elements / Menus / #1",
-  "nameIsFixed": false,
+  "name": "Desktop/Nav/Menu",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

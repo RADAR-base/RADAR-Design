@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 168,
   "do_objectID": "DB4A239F-D365-4B61-AE24-7AC4DC84DD5F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 212,
-    "x": 5640,
-    "y": 2409
+    "x": 0,
+    "y": 5958
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -44,15 +44,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "CE956593-3569-4CFD-ABF8-C1879A80531E"
-    },
-    {
       "class": "text",
       "id": "6AD1F501-3273-48C1-82EF-62A810EA5B92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE956593-3569-4CFD-ABF8-C1879A80531E"
     }
   ],
-  "name": "UI/SideList/Dropdown",
+  "name": "In/SideList/Dropdown",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
