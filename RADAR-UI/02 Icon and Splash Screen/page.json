@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "B2B48EBA-F02D-404B-B8D1-B6EEF1902665",
+  "do_objectID": "47899B6B-ED06-41F0-82F7-DAD26AAB05B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,16 +18,10 @@
     "x": 0,
     "y": 0
   },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 20,
-    "isEnabled": false,
-    "thickGridTimes": 10
-  },
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -312,
     "guides": [
     ]
   },
@@ -40,42 +34,22 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "5DB88772-DE67-45A1-AD57-F630436A2F31"
+      "id": "B94E065A-ABC7-4474-A884-6AC69633F9F3"
     },
     {
       "class": "artboard",
-      "id": "850DFA72-28BF-4B1A-B3F2-35FD87B2AB6F"
+      "id": "FEB871CF-1738-4A03-B5B5-DE4C211A59F3"
     },
     {
       "class": "artboard",
-      "id": "3AAB0F33-38DF-4855-80C4-DC9C55F9CD81"
+      "id": "FBC62CDA-28AA-4BC7-8263-FD530142C80A"
     },
     {
       "class": "artboard",
-      "id": "9C6938C3-0532-48E9-A777-F24474748272"
-    },
-    {
-      "class": "artboard",
-      "id": "96A91811-F95D-4986-B325-949FCE561E37"
-    },
-    {
-      "class": "artboard",
-      "id": "27244937-A21A-4381-9B36-F7E69538FD6B"
-    },
-    {
-      "class": "artboard",
-      "id": "6E4516B2-0502-4653-A08D-7A234B9731D2"
-    },
-    {
-      "class": "artboard",
-      "id": "2697BD75-3E23-456F-A709-BD2C1D09F822"
-    },
-    {
-      "class": "group",
-      "id": "2D258A66-4469-4B1C-BFE2-47DE36F2CD73"
+      "id": "FC119605-C4C0-437B-B7E7-DE0EC33D3907"
     }
   ],
-  "name": "+ Desktop",
+  "name": "02 Icon and Splash Screen",
   "nameIsFixed": true,
   "resizingConstraint": 0,
   "resizingType": 0,
@@ -89,7 +63,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -253,
     "guides": [
     ]
   }
