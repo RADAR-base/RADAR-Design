@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Icons/Misc/RadarLogo",
+  "name": "Icons/Radar/White-Small",
   "nameIsFixed": false,
   "overrides": {
   },
@@ -42,6 +42,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "98B99072-0601-4A1F-8A5D-4EEFDE026690",
+  "symbolID": "9B0EE341-11AF-4E3A-BE6C-BEFA4A9CAFCE",
   "verticalSpacing": 0
 }

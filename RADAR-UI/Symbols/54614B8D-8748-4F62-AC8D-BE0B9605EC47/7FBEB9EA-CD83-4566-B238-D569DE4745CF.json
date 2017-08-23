@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGSElYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwjKi42Nzg5Oj5CRFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA1JVSdMREgoTFhlXTlMua2V5c1pOUy5vYmplY3RzohQVgASABaIXGIAGgAiAEF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1B0eHwogISEiWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQAYAH0iQlJidaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyYoKV8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCissLV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgA+ACdMREgovMjWiMDGACoALojM0gAyADYAOXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABZSGVsdmV0aWNh0iQlOzxfEBNOU011dGFibGVEaWN0aW9uYXJ5ozs9KVxOU0RpY3Rpb25hcnnSJCU/QF8QEE5TRm9udERlc2NyaXB0b3KiQSlfEBBOU0ZvbnREZXNjcmlwdG9y0iQlPUOiPSnSJCVFRl8QEk5TQXR0cmlidXRlZFN0cmluZ6JHKV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFKS1Ryb290gAEACAARABoAIwAtADIANwBMAFIAWQBiAGkAdgB4AHoAfAB/AIYAjgCZAJwAngCgAKMApQCnAKkAvADeAOcA8gD+ASABIgEkASYBKwE2AT8BWQFdAXABeQF+AZsBnQGfAaYBqQGrAa0BsAGyAbQBtgHMAeIB6wH1AfoCEAIUAiECJgI5AjwCTwJUAlcCXAJxAnQCiQKbAp4CowAAAAAAAAIBAAAAAAAAAEwAAAAAAAAAAAAAAAAAAAKl"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "7FBEB9EA-CD83-4566-B238-D569DE4745CF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 20,
+    "x": 152,
+    "y": 15184
+  },
+  "glyphBounds": "{{1, 4}, {18, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "UI",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "16C425B0-14A5-4606-8446-004E64D3F8C1"
+  },
+  "textBehaviour": 0
+}

@@ -63,8 +63,8 @@
       "id": "BF5B7027-11FE-49ED-A7BD-3AE45663DE02"
     }
   ],
-  "name": "radar-logo",
-  "nameIsFixed": false,
+  "name": "LOGO",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

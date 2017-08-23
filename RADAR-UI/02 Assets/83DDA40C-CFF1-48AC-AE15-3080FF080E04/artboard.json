@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "do_objectID": "83DDA40C-CFF1-48AC-AE15-3080FF080E04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 192,
+        "fileFormat": "png",
+        "name": "_192",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 144,
+        "fileFormat": "png",
+        "name": "_144",
+        "namingScheme": 0,
+        "scale": 0.75,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 96,
+        "fileFormat": "png",
+        "name": "_96",
+        "namingScheme": 0,
+        "scale": 0.5,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 48,
+        "fileFormat": "png",
+        "name": "_48",
+        "namingScheme": 0,
+        "scale": 0.25,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 152,
+        "fileFormat": "png",
+        "name": "_apple",
+        "namingScheme": 0,
+        "scale": 0.7916666666666666,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 512,
+        "fileFormat": "png",
+        "name": "_512",
+        "namingScheme": 0,
+        "scale": 2.666666666666667,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 192,
+    "x": -1611,
+    "y": -1051
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "796A4620-04EE-4030-BD5B-C056B52765CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0BA432E5-DA5B-437E-AAAF-B89428C64BC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D8BB0A7-E2A2-4DD4-8ACF-B198148D8E1A"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
