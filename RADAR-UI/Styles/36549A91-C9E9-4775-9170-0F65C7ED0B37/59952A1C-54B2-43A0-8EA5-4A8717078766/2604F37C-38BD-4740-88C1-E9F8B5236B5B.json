@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTo+QkpLTE1OUlZYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADWTE2MjUyMTU0MtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjEgMSAxABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdM2CjckODlfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uWk5TVGFiU3RvcHOADIAA0iwtOzxfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM7PTFfEBBOU1BhcmFncmFwaFN0eWxl0go/QEFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKQ0ZJokRFgA+AEKJHSIARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXxASTW9udHNlcnJhdC1SZWd1bGFy0iwtT1BfEBNOU011dGFibGVEaWN0aW9uYXJ5o09RMVxOU0RpY3Rpb25hcnnSLC1TVF8QEE5TRm9udERlc2NyaXB0b3KiVTFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtUVeiUTHSLC1ZWl8QEk5TQXR0cmlidXRlZFN0cmluZ6JbMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFeX1Ryb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCLAJIAmgClAKkAqwCtAK8AswC1ALcAuQC7AMMA1gD4AQEBBwEUASkBMAEyATQBNgE7AUABQgFEAUkBVAFdAWoBbQF6AYMBiAGQAZMBmgG8AccByQHLAdAB6gHuAgECBgIjAiUCJwIuAjECMwI1AjgCOgI8Aj4CVAJqAnMCiAKNAqMCpwK0ArkCzALPAuIC5wLqAu8DBAMHAxwDLgMxAzYAAAAAAAACAQAAAAAAAABgAAAAAAAAAAAAAAAAAAADOA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2604F37C-38BD-4740-88C1-E9F8B5236B5B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 600,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{0, 4}, {69, 11}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A16183FF-699E-4228-B0A2-852A7AE92739"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#FFFFFF",
+        "fontPostscriptName": "Montserrat-Regular",
+        "fontSize": 14,
+        "lineHeight": 18,
+        "text": "162521542"
+      }
+    }
+  }
+}
