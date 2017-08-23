@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTo+QkpLTE1OUlZYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADVVRhc2tz0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMSAxIDEAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx0zYKNyQ4OV8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25aTlNUYWJTdG9wc4AMgADSLC07PF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozs9MV8QEE5TUGFyYWdyYXBoU3R5bGXSCj9AQV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpDRkmiREWAD4AQokdIgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABfEBJNb250c2VycmF0LVJlZ3VsYXLSLC1PUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1ExXE5TRGljdGlvbmFyedIsLVNUXxAQTlNGb250RGVzY3JpcHRvcqJVMV8QEE5TRm9udERlc2NyaXB0b3LSLC1RV6JRMdIsLVlaXxASTlNBdHRyaWJ1dGVkU3RyaW5nolsxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V5fVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAIcAjgCWAKEApQCnAKkAqwCvALEAswC1ALcAvwDSAPQA/QEDARABJQEsAS4BMAEyATcBPAE+AUABRQFQAVkBZgFpAXYBfwGEAYwBjwGWAbgBwwHFAccBzAHmAeoB/QICAh8CIQIjAioCLQIvAjECNAI2AjgCOgJQAmYCbwKEAokCnwKjArACtQLIAssC3gLjAuYC6wMAAwMDGAMqAy0DMgAAAAAAAAIBAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAM0"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E4082ED1-E534-418E-A7DC-1B12F335AA76",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 600,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{0, 3}, {47, 15}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DD6B052F-2F25-4F04-BF41-B376945BB1C8"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#FFFFFF",
+        "fontPostscriptName": "Montserrat-Regular",
+        "fontSize": 18,
+        "lineHeight": 22,
+        "text": "Tasks"
+      }
+    }
+  }
+}
