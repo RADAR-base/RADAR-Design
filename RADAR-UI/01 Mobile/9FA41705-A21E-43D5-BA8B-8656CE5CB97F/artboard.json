@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 62,
+    "x": -398,
     "y": -362
   },
   "grid": {
@@ -124,7 +124,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "202_v3-Q-Home",
+  "name": "201_Q-Home v3",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

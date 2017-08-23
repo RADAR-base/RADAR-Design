@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 863,
+  "changeIdentifier": 4653,
   "do_objectID": "FC9440AF-A7E4-4576-A117-FB79C3D6C15E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -68,7 +68,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -76,7 +76,7 @@
     },
     {
       "class": "bitmap",
-      "id": "B542058E-9635-4731-8822-1C78D666023C"
+      "id": "4F2651D6-2BBC-4EBC-B479-BE934D0D5E99"
     },
     {
       "class": "shapeGroup",
