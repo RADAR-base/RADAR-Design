@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 36,
+  "changeIdentifier": 39,
   "do_objectID": "0C54E918-F5AA-40AE-9818-462978C9DD61",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,7 +51,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -60,6 +60,7 @@
   ],
   "name": "Icons/Input/ArrowDropdown-Down",
   "nameIsFixed": true,
+  "originalObjectID": "0C54E918-F5AA-40AE-9818-462978C9DD61",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -90,6 +91,11 @@
     "startDecorationType": 0
   },
   "symbolID": "7322F554-C02D-426A-81DE-FBF5395E37B9",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -34,8 +34,8 @@
       "id": "48DC8538-6E88-4BA4-9614-CC28036143A6"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Eyes",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

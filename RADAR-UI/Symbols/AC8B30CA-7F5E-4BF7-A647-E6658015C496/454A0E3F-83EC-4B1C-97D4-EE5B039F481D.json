@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tiles/Tile/Box",
   "nameIsFixed": true,
+  "originalObjectID": "454A0E3F-83EC-4B1C-97D4-EE5B039F481D",
   "overrides": {
     "E8DE3261-4606-448D-9751-14A1960DC855": {
       "3A64264C-0604-487D-BAB5-282FBF0E34F2": "SYSTEM"

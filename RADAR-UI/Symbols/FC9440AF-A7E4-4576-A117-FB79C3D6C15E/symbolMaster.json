@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4653,
+  "changeIdentifier": 4662,
   "do_objectID": "FC9440AF-A7E4-4576-A117-FB79C3D6C15E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -85,6 +85,7 @@
   ],
   "name": "Mobile/Background/Main",
   "nameIsFixed": true,
+  "originalObjectID": "FC9440AF-A7E4-4576-A117-FB79C3D6C15E",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

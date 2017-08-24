@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 6,
   "name": "Mobile/Nav/AppBar",
   "nameIsFixed": false,
+  "originalObjectID": "E2C94D4F-5218-496A-8919-B42D72249AF7",
   "overrides": {
     "640ACB49-9789-40E4-8FFD-0421A43217B5": "Settings",
     "C963CB25-FD70-4757-837F-4C967FE7395A": {

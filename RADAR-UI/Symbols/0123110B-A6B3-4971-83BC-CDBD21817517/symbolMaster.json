@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 73,
+  "changeIdentifier": 81,
   "do_objectID": "0123110B-A6B3-4971-83BC-CDBD21817517",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -62,6 +62,7 @@
   ],
   "name": "Material/Android/StatusBarContentDark",
   "nameIsFixed": false,
+  "originalObjectID": "0123110B-A6B3-4971-83BC-CDBD21817517",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

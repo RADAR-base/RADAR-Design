@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 49,
+  "changeIdentifier": 51,
   "do_objectID": "90D29175-A577-4CAC-B756-8215B06290DA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -50,6 +50,7 @@
   ],
   "name": "TBD/ChevronMoreDown",
   "nameIsFixed": true,
+  "originalObjectID": "90D29175-A577-4CAC-B756-8215B06290DA",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 795,
+  "changeIdentifier": 804,
   "do_objectID": "AC8B30CA-7F5E-4BF7-A647-E6658015C496",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 176,
     "width": 224,
-    "x": 564,
+    "x": 1592,
     "y": 11584
   },
   "hasBackgroundColor": true,
@@ -66,6 +66,7 @@
   ],
   "name": "Tiles/Status",
   "nameIsFixed": true,
+  "originalObjectID": "AC8B30CA-7F5E-4BF7-A647-E6658015C496",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

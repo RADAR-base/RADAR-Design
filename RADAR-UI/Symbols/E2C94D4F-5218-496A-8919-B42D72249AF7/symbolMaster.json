@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 448,
+  "changeIdentifier": 455,
   "do_objectID": "E2C94D4F-5218-496A-8919-B42D72249AF7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -62,6 +62,7 @@
   ],
   "name": "Mobile/Nav/AppBar",
   "nameIsFixed": false,
+  "originalObjectID": "E2C94D4F-5218-496A-8919-B42D72249AF7",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

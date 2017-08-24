@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921568,
-    "red": 0.2470588235294118
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 1043,
+  "changeIdentifier": 1066,
   "do_objectID": "782EFEBC-33AA-427F-9795-162EDB255198",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 3071,
-    "y": 12336
+    "x": 2043,
+    "y": 13680
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,8 +48,9 @@
       "id": "42D08FAA-E7FF-4421-9680-3BC782497F0F"
     }
   ],
-  "name": "Tiles/Study/Subjects/Table/Item/Background",
-  "nameIsFixed": false,
+  "name": "Tiles/Subjects/Table/Item/Bg",
+  "nameIsFixed": true,
+  "originalObjectID": "782EFEBC-33AA-427F-9795-162EDB255198",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

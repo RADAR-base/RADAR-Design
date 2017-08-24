@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 201,
+  "changeIdentifier": 205,
   "do_objectID": "F01218AD-0937-47B6-A8E5-2AE6E11E9A01",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,7 @@
   ],
   "name": "Icons/Info/Hover",
   "nameIsFixed": true,
+  "originalObjectID": "F01218AD-0937-47B6-A8E5-2AE6E11E9A01",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,6 +94,11 @@
     "startDecorationType": 0
   },
   "symbolID": "3A01116C-5938-46DC-AD1A-EB5FEF7739B6",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -23,7 +23,7 @@
   "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -48,6 +48,7 @@
   ],
   "name": "Group 2",
   "nameIsFixed": false,
+  "originalObjectID": "29234A22-7C1E-4175-AB01-61FD4686607E",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

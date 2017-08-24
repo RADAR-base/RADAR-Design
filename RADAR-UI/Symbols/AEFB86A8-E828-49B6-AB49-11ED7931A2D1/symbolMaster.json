@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 81,
+  "changeIdentifier": 82,
   "do_objectID": "AEFB86A8-E828-49B6-AB49-11ED7931A2D1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,7 @@
   ],
   "name": "Material/Android/Navbar360dpBlack",
   "nameIsFixed": false,
+  "originalObjectID": "AEFB86A8-E828-49B6-AB49-11ED7931A2D1",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -34,28 +34,13 @@
   ],
   "name": "Rectangle 4",
   "nameIsFixed": false,
+  "originalObjectID": "FF364B3E-21A3-4520-B671-84FC758B7B1A",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {

@@ -65,14 +65,6 @@
       "id": "8FB3687B-230E-4CFB-B3CB-0F325AEEE28F"
     },
     {
-      "class": "group",
-      "id": "8C850B09-B8DF-4B90-BD9A-9C0F74AA6F12"
-    },
-    {
-      "class": "group",
-      "id": "98981F32-5E46-41B6-8E16-DD87D2F91444"
-    },
-    {
       "class": "symbolInstance",
       "id": "D91B94C5-74A4-48DC-B982-10F7FB9DD496"
     }
@@ -92,7 +84,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "600_Report",
+  "name": "500_Report",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

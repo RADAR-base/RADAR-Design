@@ -61,8 +61,8 @@
       "id": "2F204154-FFDB-49FA-8972-F02814CC5D95"
     },
     {
-      "class": "shapeGroup",
-      "id": "BE2DA56A-D86E-4D8A-86E3-1A3F9B4C36D0"
+      "class": "symbolInstance",
+      "id": "3FE81F5E-F87F-4098-ACAD-1242E37156EB"
     },
     {
       "class": "symbolInstance",
@@ -108,7 +108,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "300_Q-Intro",
+  "name": "200_Q-Intro",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

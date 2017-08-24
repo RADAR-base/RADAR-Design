@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 42,
+  "changeIdentifier": 46,
   "do_objectID": "86018890-165D-496E-A118-DD1BDA99A12A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,7 @@
   ],
   "name": "Icons/Pagination/Chevron-Right",
   "nameIsFixed": true,
+  "originalObjectID": "86018890-165D-496E-A118-DD1BDA99A12A",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,6 +94,11 @@
     "startDecorationType": 0
   },
   "symbolID": "FA15CB9E-DC8B-4232-AC29-B91B18E3F018",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

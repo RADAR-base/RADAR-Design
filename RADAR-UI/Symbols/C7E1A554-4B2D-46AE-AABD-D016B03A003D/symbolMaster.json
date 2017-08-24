@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 1226,
+  "changeIdentifier": 1257,
   "do_objectID": "C7E1A554-4B2D-46AE-AABD-D016B03A003D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -54,6 +54,7 @@
   ],
   "name": "Mobile/Button/Rounded",
   "nameIsFixed": true,
+  "originalObjectID": "C7E1A554-4B2D-46AE-AABD-D016B03A003D",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -84,6 +85,11 @@
     "startDecorationType": 0
   },
   "symbolID": "7CE18E85-93D0-44C7-9E9C-0D215682F3FE",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

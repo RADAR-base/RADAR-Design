@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -88,7 +88,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "200_Q-Home",
+  "name": "100_Q-Home",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

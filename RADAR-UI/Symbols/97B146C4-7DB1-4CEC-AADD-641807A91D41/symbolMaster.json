@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 203,
+  "changeIdentifier": 207,
   "do_objectID": "97B146C4-7DB1-4CEC-AADD-641807A91D41",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -54,6 +54,7 @@
   ],
   "name": "Desktop/SideList/Item",
   "nameIsFixed": true,
+  "originalObjectID": "97B146C4-7DB1-4CEC-AADD-641807A91D41",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

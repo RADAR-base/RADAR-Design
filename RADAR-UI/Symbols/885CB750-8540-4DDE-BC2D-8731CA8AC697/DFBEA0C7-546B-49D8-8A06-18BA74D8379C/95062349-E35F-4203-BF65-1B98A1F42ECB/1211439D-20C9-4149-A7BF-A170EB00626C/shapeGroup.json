@@ -34,6 +34,7 @@
   ],
   "name": "Marker",
   "nameIsFixed": true,
+  "originalObjectID": "1211439D-20C9-4149-A7BF-A170EB00626C",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -68,9 +69,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 0,
+          "red": 0.5319148936170208
         },
         "fillType": 0,
         "isEnabled": false,

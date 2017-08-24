@@ -54,15 +54,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "72D13BF2-2C47-4557-9A73-F915F6F9EB79"
     },
     {
-      "class": "shapeGroup",
-      "id": "F8938113-DFD5-4430-9CE5-6DF4F3433568"
+      "class": "symbolInstance",
+      "id": "1832C77F-8748-4B28-9285-A5379F0DCB1C"
     },
     {
       "class": "symbolInstance",
@@ -124,7 +124,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "400_T-Intro",
+  "name": "300_T-Intro",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

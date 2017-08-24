@@ -34,47 +34,14 @@
   ],
   "name": "Rectangle 5",
   "nameIsFixed": false,
+  "originalObjectID": "6D47E130-55F1-4128-8CA6-AC6CB2850386",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 0.2,
-          "blue": 0.3490196078431372,
-          "green": 0.2901960784313725,
-          "red": 0.04313725490196078
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },

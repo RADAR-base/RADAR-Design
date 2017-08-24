@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 47,
+  "changeIdentifier": 53,
   "do_objectID": "11AC78A4-547A-439A-B946-CE4C2B1D0560",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -59,6 +59,7 @@
   ],
   "name": "Icons/Nav/Chevron-Left",
   "nameIsFixed": true,
+  "originalObjectID": "11AC78A4-547A-439A-B946-CE4C2B1D0560",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,6 +90,11 @@
     "startDecorationType": 0
   },
   "symbolID": "832B70E4-2D3C-4928-A332-7F7B2C1394D5",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 131,
+  "changeIdentifier": 220,
   "do_objectID": "885CB750-8540-4DDE-BC2D-8731CA8AC697",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 928,
     "width": 1168,
     "x": 0,
-    "y": 13280
+    "y": 12352
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -70,6 +70,7 @@
   ],
   "name": "Tiles/Subject/Charts",
   "nameIsFixed": true,
+  "originalObjectID": "885CB750-8540-4DDE-BC2D-8731CA8AC697",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

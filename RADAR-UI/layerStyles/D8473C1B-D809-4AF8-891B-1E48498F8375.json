@@ -1,0 +1,52 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "D8473C1B-D809-4AF8-891B-1E48498F8375",
+  "name": "Mobile/Background/Trans-20-Border",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.3490196078431372,
+          "green": 0.2901960784313725,
+          "red": 0.04313725490196078
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.3490196078431372,
+          "green": 0.2901960784313725,
+          "red": 0.04313725490196081
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -2,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "D8473C1B-D809-4AF8-891B-1E48498F8375",
+    "startDecorationType": 0
+  }
+}

@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 37,
+  "changeIdentifier": 41,
   "do_objectID": "35EC9642-79B1-43A4-AA25-0F63D3319188",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,7 @@
   ],
   "name": "Icons/Misc/AddCircle",
   "nameIsFixed": true,
+  "originalObjectID": "35EC9642-79B1-43A4-AA25-0F63D3319188",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,6 +94,11 @@
     "startDecorationType": 0
   },
   "symbolID": "677592A0-C1E3-4CD1-8769-5D83D246E107",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

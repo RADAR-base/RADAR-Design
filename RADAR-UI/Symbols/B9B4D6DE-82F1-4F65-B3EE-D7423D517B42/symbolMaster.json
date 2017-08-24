@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 40,
+  "changeIdentifier": 55,
   "do_objectID": "B9B4D6DE-82F1-4F65-B3EE-D7423D517B42",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -59,6 +59,7 @@
   ],
   "name": "Icons/Nav/Menu",
   "nameIsFixed": true,
+  "originalObjectID": "B9B4D6DE-82F1-4F65-B3EE-D7423D517B42",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,6 +90,11 @@
     "startDecorationType": 0
   },
   "symbolID": "11D4C3B2-CD7C-45E5-B68C-C3F592822D0C",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

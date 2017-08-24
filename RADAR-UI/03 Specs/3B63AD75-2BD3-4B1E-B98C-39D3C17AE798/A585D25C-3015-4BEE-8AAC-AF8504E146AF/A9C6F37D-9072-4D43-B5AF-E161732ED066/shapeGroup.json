@@ -48,54 +48,6 @@
       "lineCapStyle": 1,
       "lineJoinStyle": 1
     },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 1,
-          "from": "{0.49999997019767761, 0.62730838585124227}",
-          "gradientType": 0,
-          "shouldSmoothenOpacity": false,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.7333333333333333,
-                "green": 0.803921568627451,
-                "red": 0.4980392156862745
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.3607843137254901,
-                "green": 0.9019607843137255,
-                "red": 0.8470588235294118
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.49999997019767761, 0.25470427290946457}"
-        },
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 4
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -103,9 +55,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 0,
+          "red": 0.5319148936170208
         },
         "fillType": 1,
         "gradient": {

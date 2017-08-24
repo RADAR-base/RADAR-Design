@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 4554,
+  "changeIdentifier": 4611,
   "do_objectID": "E260B506-A168-4891-9E07-4A784E7E4E8F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -58,6 +58,7 @@
   ],
   "name": "Mobile/Input/Range",
   "nameIsFixed": false,
+  "originalObjectID": "E260B506-A168-4891-9E07-4A784E7E4E8F",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

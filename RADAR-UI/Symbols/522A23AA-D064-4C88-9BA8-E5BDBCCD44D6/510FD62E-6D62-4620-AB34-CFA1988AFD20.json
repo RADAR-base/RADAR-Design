@@ -30,6 +30,12 @@
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Tiles/Study/Subjects/Table/Item",
   "nameIsFixed": false,
+  "originalObjectID": "510FD62E-6D62-4620-AB34-CFA1988AFD20",
+  "overrides": {
+    "F74C4824-C416-46DC-A425-A7FE8FA366CD": {
+      "symbolID": "69824C02-57F8-4391-9690-74EFCC1EFAE6"
+    }
+  },
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,

@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 1587,
+  "changeIdentifier": 1600,
   "do_objectID": "2B297BE5-6181-4DAD-AEAE-683439E15E3D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -70,6 +70,7 @@
   ],
   "name": "Mobile/Nav/Bottom/Questions",
   "nameIsFixed": true,
+  "originalObjectID": "2B297BE5-6181-4DAD-AEAE-683439E15E3D",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

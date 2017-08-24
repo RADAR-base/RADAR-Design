@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 41,
+  "changeIdentifier": 45,
   "do_objectID": "2280B012-A263-4F2D-B45B-EBC8AD53ADA4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,7 @@
   ],
   "name": "Icons/Pagination/FirstPage",
   "nameIsFixed": true,
+  "originalObjectID": "2280B012-A263-4F2D-B45B-EBC8AD53ADA4",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,6 +94,11 @@
     "startDecorationType": 0
   },
   "symbolID": "63A4F892-57FD-4E7B-8A2D-823D4C62150D",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

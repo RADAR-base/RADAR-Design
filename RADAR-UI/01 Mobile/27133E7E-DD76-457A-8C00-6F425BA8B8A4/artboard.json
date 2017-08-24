@@ -54,15 +54,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "704650D0-CDCC-4C2F-B24F-A9DCC5E65E42"
     },
     {
-      "class": "shapeGroup",
-      "id": "D14A844C-4C27-4108-B890-0BB969F8AD91"
+      "class": "symbolInstance",
+      "id": "F7717249-0084-4F8C-86D3-E57B6DB53BA9"
     },
     {
       "class": "symbolInstance",
@@ -116,7 +116,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "401_T-Task",
+  "name": "301_T-Task",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

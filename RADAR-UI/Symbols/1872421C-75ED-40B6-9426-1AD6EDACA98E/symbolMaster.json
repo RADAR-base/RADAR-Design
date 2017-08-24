@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 208,
+  "changeIdentifier": 227,
   "do_objectID": "1872421C-75ED-40B6-9426-1AD6EDACA98E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,6 +59,7 @@
   ],
   "name": "Icons/Radar/White",
   "nameIsFixed": true,
+  "originalObjectID": "1872421C-75ED-40B6-9426-1AD6EDACA98E",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,6 +90,11 @@
     "startDecorationType": 0
   },
   "symbolID": "9B0EE341-11AF-4E3A-BE6C-BEFA4A9CAFCE",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

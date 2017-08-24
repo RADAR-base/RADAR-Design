@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 174,
+  "changeIdentifier": 178,
   "do_objectID": "DB4A239F-D365-4B61-AE24-7AC4DC84DD5F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -54,6 +54,7 @@
   ],
   "name": "Desktop/SideList/Dropdown",
   "nameIsFixed": true,
+  "originalObjectID": "DB4A239F-D365-4B61-AE24-7AC4DC84DD5F",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 192,
+  "changeIdentifier": 201,
   "do_objectID": "A6D7B74A-7F7C-4153-9F65-AC74DCCDE033",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 24,
     "width": 448,
     "x": 0,
-    "y": 14608
+    "y": 14624
   },
   "grid": {
     "_class": "simpleGrid",
@@ -60,6 +60,7 @@
   ],
   "name": "Tiles/Tile/Bar",
   "nameIsFixed": true,
+  "originalObjectID": "A6D7B74A-7F7C-4153-9F65-AC74DCCDE033",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

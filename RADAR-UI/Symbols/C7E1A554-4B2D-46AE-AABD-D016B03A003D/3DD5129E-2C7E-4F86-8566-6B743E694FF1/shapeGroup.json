@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 56,
-    "width": 328,
-    "x": 0,
+    "width": 327.5045575867997,
+    "x": 0.4954424132002373,
     "y": 0
   },
   "hasClickThrough": false,
@@ -32,8 +32,9 @@
       "id": "B2B3A886-6793-448F-8F9E-AAA7A8DCC261"
     }
   ],
-  "name": "Rectangle 7",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
+  "originalObjectID": "3DD5129E-2C7E-4F86-8566-6B743E694FF1",
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

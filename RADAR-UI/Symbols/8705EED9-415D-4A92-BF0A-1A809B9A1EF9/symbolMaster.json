@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 56,
+  "changeIdentifier": 62,
   "do_objectID": "8705EED9-415D-4A92-BF0A-1A809B9A1EF9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -50,6 +50,7 @@
   ],
   "name": "Icons/Time/Stopwatch",
   "nameIsFixed": true,
+  "originalObjectID": "8705EED9-415D-4A92-BF0A-1A809B9A1EF9",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +81,11 @@
     "startDecorationType": 0
   },
   "symbolID": "49D91633-B05A-460B-ACE3-B5B988140271",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

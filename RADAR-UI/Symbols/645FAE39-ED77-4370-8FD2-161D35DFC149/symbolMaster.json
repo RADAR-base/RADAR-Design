@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.2902374565601349,
-    "green": 0.2901752889156342,
-    "red": 0.290221631526947
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
-  "changeIdentifier": 96,
+  "changeIdentifier": 104,
   "do_objectID": "645FAE39-ED77-4370-8FD2-161D35DFC149",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 2744
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "Icons/Graph/Check",
   "nameIsFixed": true,
+  "originalObjectID": "645FAE39-ED77-4370-8FD2-161D35DFC149",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +81,11 @@
     "startDecorationType": 0
   },
   "symbolID": "DBC47811-8DAA-4848-9793-FF8E34F9C8D9",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

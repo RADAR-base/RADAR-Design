@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 572,
+  "changeIdentifier": 577,
   "do_objectID": "C8D02CC7-1656-4C94-9872-FF3DF906F331",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -54,6 +54,7 @@
   ],
   "name": "Mobile/Nav/Progress-60",
   "nameIsFixed": true,
+  "originalObjectID": "C8D02CC7-1656-4C94-9872-FF3DF906F331",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

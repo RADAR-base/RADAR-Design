@@ -34,28 +34,13 @@
   ],
   "name": "Rectangle",
   "nameIsFixed": false,
+  "originalObjectID": "213717FC-B4DF-4C1E-9322-25ECB9C1F572",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,

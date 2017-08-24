@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 41,
+  "changeIdentifier": 44,
   "do_objectID": "B8DF5FD1-1608-4AAA-AB17-6F9FAD22395D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,7 @@
   ],
   "name": "Graph/Icons/EmptyBar",
   "nameIsFixed": true,
+  "originalObjectID": "B8DF5FD1-1608-4AAA-AB17-6F9FAD22395D",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

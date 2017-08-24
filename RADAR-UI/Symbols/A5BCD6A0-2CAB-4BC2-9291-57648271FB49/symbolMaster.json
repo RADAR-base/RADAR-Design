@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2,
+  "changeIdentifier": 6,
   "do_objectID": "A5BCD6A0-2CAB-4BC2-9291-57648271FB49",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Icons/Devices/Connected",
   "nameIsFixed": false,
+  "originalObjectID": "A5BCD6A0-2CAB-4BC2-9291-57648271FB49",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,6 +63,11 @@
     "startDecorationType": 0
   },
   "symbolID": "78340100-5919-4421-8429-B5CD2809B111",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

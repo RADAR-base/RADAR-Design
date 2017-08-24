@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 47,
+  "changeIdentifier": 54,
   "do_objectID": "29AD80A3-9D5E-4C03-BE56-9416D708E863",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -59,6 +59,7 @@
   ],
   "name": "Icons/Time/Night",
   "nameIsFixed": true,
+  "originalObjectID": "29AD80A3-9D5E-4C03-BE56-9416D708E863",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,6 +90,11 @@
     "startDecorationType": 0
   },
   "symbolID": "792A610E-7B30-49C5-9D93-527C7417FB9A",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

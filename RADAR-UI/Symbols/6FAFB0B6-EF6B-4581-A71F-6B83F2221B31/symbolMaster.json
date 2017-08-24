@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 1114,
+  "changeIdentifier": 1119,
   "do_objectID": "6FAFB0B6-EF6B-4581-A71F-6B83F2221B31",
   "exportOptions": {
     "_class": "exportOptions",
@@ -60,6 +60,7 @@
   ],
   "name": "Desktop/Status/DataNumber",
   "nameIsFixed": true,
+  "originalObjectID": "6FAFB0B6-EF6B-4581-A71F-6B83F2221B31",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

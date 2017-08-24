@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tiles/Tile/Bar",
   "nameIsFixed": true,
+  "originalObjectID": "E8DE3261-4606-448D-9751-14A1960DC855",
   "overrides": {
   },
   "resizingConstraint": 10,

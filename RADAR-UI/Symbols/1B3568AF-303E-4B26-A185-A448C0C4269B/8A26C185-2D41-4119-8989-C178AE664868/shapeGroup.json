@@ -34,6 +34,7 @@
   ],
   "name": "Oval",
   "nameIsFixed": false,
+  "originalObjectID": "8A26C185-2D41-4119-8989-C178AE664868",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,22 +49,6 @@
       "lineCapStyle": 1,
       "lineJoinStyle": 1
     },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 4
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {

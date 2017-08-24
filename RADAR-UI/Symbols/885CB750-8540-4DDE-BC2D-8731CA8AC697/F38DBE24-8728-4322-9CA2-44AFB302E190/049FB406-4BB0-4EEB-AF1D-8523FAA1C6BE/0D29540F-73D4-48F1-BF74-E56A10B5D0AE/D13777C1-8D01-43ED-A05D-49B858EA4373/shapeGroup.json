@@ -34,6 +34,7 @@
   ],
   "name": "Line",
   "nameIsFixed": false,
+  "originalObjectID": "D13777C1-8D01-43ED-A05D-49B858EA4373",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -62,24 +63,6 @@
       "opacity": 0.3400000035762787
     },
     "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 0,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "sharedObjectID": "6F7C7AFE-3D67-48FF-9017-316A1EC9E9E8",
     "startDecorationType": 0

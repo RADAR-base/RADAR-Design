@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Desktop/SideList/Item",
   "nameIsFixed": false,
+  "originalObjectID": "6FC4442C-4598-4D80-8989-87D907DD3BCA",
   "overrides": {
     "BC22BE5C-6843-4BAD-96C0-5CB96E894D70": "Heart Rate"
   },

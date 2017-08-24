@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -100,7 +100,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "403_T-End",
+  "name": "303_T-End",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

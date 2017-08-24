@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 43,
+  "changeIdentifier": 46,
   "do_objectID": "39E2B815-2B1A-4066-B640-46BED7FA4DE6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,7 +56,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,6 +65,7 @@
   ],
   "name": "Icons/Markers/Stop",
   "nameIsFixed": true,
+  "originalObjectID": "39E2B815-2B1A-4066-B640-46BED7FA4DE6",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -95,6 +96,11 @@
     "startDecorationType": 0
   },
   "symbolID": "A7D64799-97EF-4AD1-AAB1-1D213CDBC9D7",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

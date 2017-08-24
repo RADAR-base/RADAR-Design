@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 39,
+  "changeIdentifier": 49,
   "do_objectID": "57C2B1F6-1718-4BD9-85D3-39BEFA28613B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +63,7 @@
   ],
   "name": "Icons/Nav/ArrowBack",
   "nameIsFixed": true,
+  "originalObjectID": "57C2B1F6-1718-4BD9-85D3-39BEFA28613B",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -94,6 +95,11 @@
     "startDecorationType": 0
   },
   "symbolID": "399C1B51-205C-4A6A-B53D-5715C2003838",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

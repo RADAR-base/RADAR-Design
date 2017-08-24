@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -108,7 +108,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 328
   },
-  "name": "302_Q-Radio-Selected",
+  "name": "202_Q-Radio-Selected",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

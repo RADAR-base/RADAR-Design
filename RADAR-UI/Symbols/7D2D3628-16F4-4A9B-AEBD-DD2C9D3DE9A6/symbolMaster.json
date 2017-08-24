@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 174,
+  "changeIdentifier": 188,
   "do_objectID": "7D2D3628-16F4-4A9B-AEBD-DD2C9D3DE9A6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 432,
     "width": 12,
     "x": 120,
-    "y": 15184
+    "y": 15200
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -54,6 +54,7 @@
   ],
   "name": "UI/Scrollbar",
   "nameIsFixed": true,
+  "originalObjectID": "7D2D3628-16F4-4A9B-AEBD-DD2C9D3DE9A6",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

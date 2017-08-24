@@ -2,12 +2,12 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.8,
-    "blue": 0.5137254901960784,
-    "green": 0.4274509803921569,
-    "red": 0.2470588235294117
+    "alpha": 1,
+    "blue": 0.6470588235294118,
+    "green": 0.6039215686274509,
+    "red": 0.4274509803921568
   },
-  "changeIdentifier": 226,
+  "changeIdentifier": 234,
   "do_objectID": "A31AA57A-9F83-40EB-B308-6001F3CAFF5C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 176,
     "width": 224,
     "x": 548,
-    "y": 14608
+    "y": 14624
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -54,6 +54,7 @@
   ],
   "name": "Tiles/Tile/Box",
   "nameIsFixed": true,
+  "originalObjectID": "A31AA57A-9F83-40EB-B308-6001F3CAFF5C",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "do_objectID": "B2B3A886-6793-448F-8F9E-AAA7A8DCC261",
-  "edited": false,
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 56,
-    "width": 328,
+    "width": 327.5045575867998,
     "x": 0,
     "y": 0
   },
@@ -37,42 +37,42 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 100,
-        "curveFrom": "{0, 0}",
+        "curveFrom": "{0.0015406124132059989, 0}",
         "curveMode": 1,
-        "curveTo": "{0, 0}",
+        "curveTo": "{0.0015406124132059989, 0}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0, 0}"
+        "point": "{0.0015406124132059989, 0}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 100,
-        "curveFrom": "{1, 0}",
+        "curveFrom": "{0.99999999999999989, 0}",
         "curveMode": 1,
-        "curveTo": "{1, 0}",
+        "curveTo": "{0.99999999999999989, 0}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{1, 0}"
+        "point": "{0.99999999999999989, 0}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 100,
-        "curveFrom": "{1, 1}",
+        "curveFrom": "{0.99999999999999989, 1}",
         "curveMode": 1,
-        "curveTo": "{1, 1}",
+        "curveTo": "{0.99999999999999989, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{1, 1}"
+        "point": "{0.99999999999999989, 1}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 100,
-        "curveFrom": "{0, 1}",
+        "curveFrom": "{-0.0015127802093835849, 1}",
         "curveMode": 1,
-        "curveTo": "{0, 1}",
+        "curveTo": "{-0.0015127802093835849, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0, 1}"
+        "point": "{-0.0015127802093835849, 1}"
       }
     ]
   },
