@@ -1,4 +1,4 @@
 {
-  "shareTextStyles": true,
-  "shareLayerStyles": true
+  "shareTextStyles": false,
+  "shareLayerStyles": false
 }
