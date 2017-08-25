@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "60C5F271-A219-40A4-BB0B-A60A6CE2A2D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 745,
+    "width": 204,
+    "x": 520,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B1554706-2A01-455E-AA09-B300530D9317"
+    }
+  ],
+  "name": "Marker-Overlay",
+  "nameIsFixed": true,
+  "originalObjectID": "60C5F271-A219-40A4-BB0B-A60A6CE2A2D2",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

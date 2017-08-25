@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "6C6A632B-CEF5-498B-B70C-EEB4C718C33C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 198,
+    "width": 26,
+    "x": 43,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "51CC3C84-B633-4755-86CC-3C45F63F0958"
+    },
+    {
+      "class": "text",
+      "id": "961CDEF6-BF7E-4157-B534-076B040E7A56"
+    },
+    {
+      "class": "text",
+      "id": "0E9EBF1C-2EBC-4056-8FDE-8E85AC6AB48F"
+    },
+    {
+      "class": "text",
+      "id": "5ED6740B-5955-4C6C-9F04-F7A6111660F1"
+    },
+    {
+      "class": "text",
+      "id": "14FA2583-27BA-4809-B629-A049D4B75625"
+    }
+  ],
+  "name": "Y Axis Labels",
+  "nameIsFixed": true,
+  "originalObjectID": "6C6A632B-CEF5-498B-B70C-EEB4C718C33C",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

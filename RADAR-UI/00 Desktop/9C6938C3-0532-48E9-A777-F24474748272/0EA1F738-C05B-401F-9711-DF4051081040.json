@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0EA1F738-C05B-401F-9711-DF4051081040",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 224,
+    "x": 16,
+    "y": 448
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Tiles/Status",
+  "nameIsFixed": false,
+  "originalObjectID": "AC8B30CA-7F5E-4BF7-A647-E6658015C496",
+  "overrides": {
+    "3B8998E4-9A77-4A3C-9EC6-FE804F3FB182": {
+      "symbolID": ""
+    },
+    "8562116A-852E-411B-995B-C24246A7D0D0": {
+      "symbolID": ""
+    },
+    "8FF7AC44-BE89-497A-A940-32C8CAABFF50": {
+      "9C1A7821-CDA1-4ED0-AC81-59823F613BE2": "last update",
+      "F4A35ECF-2361-498B-BFF4-50F892C9CC8E": "01:37:15",
+      "symbolID": "94FDAF85-9739-4C65-8666-7D6467613ED7"
+    },
+    "C467B1B6-E4EA-45CD-858B-DE38BA54538D": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B06821FC-62E1-4E9C-AB5A-D9BA7D59ABFB",
+  "verticalSpacing": 0
+}

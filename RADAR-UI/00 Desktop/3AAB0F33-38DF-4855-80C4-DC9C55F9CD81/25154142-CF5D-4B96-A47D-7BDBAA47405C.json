@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "25154142-CF5D-4B96-A47D-7BDBAA47405C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 10,
+  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Desktop/Nav/AppBar-Inner",
+  "nameIsFixed": false,
+  "originalObjectID": "BB22B1CE-BCBC-4457-BC68-DCE4067EDE7C",
+  "overrides": {
+    "5DC172D8-C19E-4939-A21A-65444F2697D3": {
+      "symbolID": "13133CAC-46B1-476E-9F57-7A2CC939D045"
+    },
+    "6F544270-D353-4379-9AC0-9975B09B9070": "Subject #162521542"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D0899924-0507-4046-994B-DA5DF38E9A12",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9C6938C3-0532-48E9-A777-F24474748272",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "[Desktop] ",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": 1540,
+    "y": 2848
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 4
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C245FE4F-591D-4278-950C-DC67A539824C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B019EB56-419E-4FDA-BA71-BA98D633FFD6"
+    },
+    {
+      "class": "group",
+      "id": "04E0C632-D09C-4C91-87DE-3ED3630B5EB2"
+    },
+    {
+      "class": "group",
+      "id": "C5EE3832-0EAE-4882-9F1B-452880648803"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08964639-6ACD-4F08-A4FC-6538951F4FE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECC5C3EC-D260-4B88-BD61-83BB216FA4FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3006B539-E2FD-4095-BCEA-389B04F33E68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "648A5AD4-DD1D-4AE4-8F05-577CB2491F21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7E73B29-4387-4BB8-A534-33D4DC02BC17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0393C5D-17CB-4350-9125-D426D6140397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EA1F738-C05B-401F-9711-DF4051081040"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4624C60C-79CE-4796-82AD-ADB34759B461"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1A68812-F70C-471A-94A7-7ADE64524C6A"
+    }
+  ],
+  "name": "301_Study-Sensors List",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

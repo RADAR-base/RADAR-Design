@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E0393C5D-17CB-4350-9125-D426D6140397",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 224,
+    "x": 16,
+    "y": 640
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Tiles/Status",
+  "nameIsFixed": false,
+  "originalObjectID": "AC8B30CA-7F5E-4BF7-A647-E6658015C496",
+  "overrides": {
+    "3B8998E4-9A77-4A3C-9EC6-FE804F3FB182": {
+      "symbolID": ""
+    },
+    "454A0E3F-83EC-4B1C-97D4-EE5B039F481D": {
+      "E8DE3261-4606-448D-9751-14A1960DC855": {
+        "3A64264C-0604-487D-BAB5-282FBF0E34F2": "Hot Storage"
+      }
+    },
+    "8562116A-852E-411B-995B-C24246A7D0D0": {
+      "symbolID": ""
+    },
+    "8FF7AC44-BE89-497A-A940-32C8CAABFF50": {
+      "F4A35ECF-2361-498B-BFF4-50F892C9CC8E": "00:23:14",
+      "symbolID": "94FDAF85-9739-4C65-8666-7D6467613ED7"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B06821FC-62E1-4E9C-AB5A-D9BA7D59ABFB",
+  "verticalSpacing": 0
+}

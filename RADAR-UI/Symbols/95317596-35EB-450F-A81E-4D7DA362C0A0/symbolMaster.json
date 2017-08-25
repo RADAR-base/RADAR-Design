@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 234,
+  "do_objectID": "95317596-35EB-450F-A81E-4D7DA362C0A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 242,
+    "x": 3080,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7AAAE440-A893-4BD6-ABC6-B5F0E0B3A014"
+    },
+    {
+      "class": "group",
+      "id": "C6A4C94B-C390-4D1F-B494-F13C67C30769"
+    },
+    {
+      "class": "group",
+      "id": "5F834608-C542-43D4-98FC-46C9B3F813A7"
+    },
+    {
+      "class": "group",
+      "id": "48A200D2-30CB-47FB-8D4E-60A0CE988A63"
+    }
+  ],
+  "name": "Desktop/Nav/Menu",
+  "nameIsFixed": true,
+  "originalObjectID": "95317596-35EB-450F-A81E-4D7DA362C0A0",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "58DCD6DE-FDD1-4D63-88B7-728E300CAF72",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

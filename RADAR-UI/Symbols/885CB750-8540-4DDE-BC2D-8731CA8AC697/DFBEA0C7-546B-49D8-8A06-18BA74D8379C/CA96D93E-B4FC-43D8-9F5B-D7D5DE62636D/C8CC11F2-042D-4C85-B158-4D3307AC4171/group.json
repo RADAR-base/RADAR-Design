@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "C8CC11F2-042D-4C85-B158-4D3307AC4171",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 164,
+    "width": 208,
+    "x": 0,
+    "y": 69
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B5E58E4-51E2-47D5-B93A-D6CF011109DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0EA25A8C-ACC8-4798-B868-78D8A5D7FC7A"
+    },
+    {
+      "class": "text",
+      "id": "FC3F4B82-EC41-45FF-87CB-3C58C11B8862"
+    },
+    {
+      "class": "text",
+      "id": "E57B077D-8DDB-48EC-9C3B-039657159EF0"
+    },
+    {
+      "class": "text",
+      "id": "66B1AF38-6592-4C23-89A2-019BB8BB8370"
+    },
+    {
+      "class": "text",
+      "id": "B69AF70B-3422-4748-B9D0-E13DABFA6C90"
+    },
+    {
+      "class": "text",
+      "id": "0BC60B94-CA88-48C9-90A4-2B8FD0B27F65"
+    },
+    {
+      "class": "text",
+      "id": "199F78E4-CDBF-4CF5-B66A-70EB05130B55"
+    },
+    {
+      "class": "text",
+      "id": "BFBB98AE-ED48-4617-80CE-94E5DF673237"
+    },
+    {
+      "class": "text",
+      "id": "0DCF1555-58FD-4EF2-BBEE-56EB5B35B264"
+    },
+    {
+      "class": "text",
+      "id": "1D26302E-D58E-4CA2-8F2A-D6F65A6ED1FF"
+    },
+    {
+      "class": "text",
+      "id": "0A6497BA-2CCC-4ED7-85B8-0BDE8D3CEBC1"
+    },
+    {
+      "class": "text",
+      "id": "DE6A0B2C-C741-4ADE-A4D2-36EB7536F59E"
+    },
+    {
+      "class": "text",
+      "id": "97B1A6F1-C72D-4CC2-90FE-89E51274B835"
+    },
+    {
+      "class": "text",
+      "id": "C480D2AB-8484-4F2C-AD20-578E4264B936"
+    }
+  ],
+  "name": "box",
+  "nameIsFixed": true,
+  "originalObjectID": "C8CC11F2-042D-4C85-B158-4D3307AC4171",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.9004755434782609
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

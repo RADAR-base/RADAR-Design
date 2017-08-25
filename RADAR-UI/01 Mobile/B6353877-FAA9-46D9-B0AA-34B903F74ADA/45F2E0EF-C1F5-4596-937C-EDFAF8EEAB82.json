@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTo+QkpLTE1OUlZYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADbgBSAG8AbQBiAGUAcgBnIBkAcwAgAFQAZQBzAHTTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4ANgBVXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYxIDEgMQAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHTNgo3JDg5XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzgAyAANIsLTs8XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOz0xXxAQTlNQYXJhZ3JhcGhTdHlsZdIKP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkNGSaJERYAPgBCiR0iAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF8QEk1vbnRzZXJyYXQtUmVndWxhctIsLU9QXxATTlNNdXRhYmxlRGljdGlvbmFyeaNPUTFcTlNEaWN0aW9uYXJ50iwtU1RfEBBOU0ZvbnREZXNjcmlwdG9yolUxXxAQTlNGb250RGVzY3JpcHRvctIsLVFXolEx0iwtWVpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiWzFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRXl9Ucm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAngClAK0AuAC8AL4AwADCAMYAyADKAMwAzgDWAOkBCwEUARoBJwE8AUMBRQFHAUkBTgFTAVUBVwFcAWcBcAF9AYABjQGWAZsBowGmAa0BzwHaAdwB3gHjAf0CAQIUAhkCNgI4AjoCQQJEAkYCSAJLAk0CTwJRAmcCfQKGApsCoAK2AroCxwLMAt8C4gL1AvoC/QMCAxcDGgMvA0EDRANJAAAAAAAAAgEAAAAAAAAAYAAAAAAAAAAAAAAAAAAAA0s="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "45F2E0EF-C1F5-4596-937C-EDFAF8EEAB82",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 312,
+    "x": 24,
+    "y": 46
+  },
+  "glyphBounds": "{{2, 5}, {179, 23}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Romberg’s Test",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "F464F835-6DD8-4E36-8B55-6A76E2B7E9B6"
+  },
+  "textBehaviour": 1
+}
