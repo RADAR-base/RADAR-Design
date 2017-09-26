@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Nav/ArrowBack</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons/Nav/ArrowBack" stroke-width="2" stroke="#FFFFFF">
+            <polyline id="Line" points="12 20 4 12 12 4"></polyline>
+            <path d="M5,12 L22,12" id="Line"></path>
+        </g>
+    </g>
+</svg>
