@@ -1,5 +1,7 @@
 # RADAR-CNS Design Documents
 
+> :warning: **Archived Repository**:
+
 UI/UX Design Documents for RADAR-CNS
 
 ## Guidelines
